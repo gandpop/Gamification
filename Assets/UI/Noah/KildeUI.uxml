@@ -1,16 +1,16 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
     <Style src="project://database/Assets/UI/Noah/StyleSheet.uss?fileID=7433441132597879392&amp;guid=c09fef67372cb624c98330bfd1ad806b&amp;type=3#StyleSheet"/>
     <ui:VisualElement style="flex-grow: 1; justify-content: flex-start;">
-        <ui:VisualElement name="container" style="flex-grow: 1; flex-basis: 0%; align-self: flex-end; height: 112px; width: 534px; flex-shrink: 1; align-items: auto; justify-content: flex-start; flex-direction: column; flex-wrap: wrap; padding-left: 10px; padding-right: 10px; padding-bottom: 20px; padding-top: 30px; background-color: rgba(0, 0, 0, 0); align-content: auto;">
-            <ui:DropdownField label="Tendens" name="Tendens" choices="Bias,Objektiv,Subjektiv"/>
+        <ui:VisualElement name="container" style="flex-grow: 1; flex-basis: 0%; align-self: flex-end; height: 112px; width: 571px; flex-shrink: 1; align-items: auto; justify-content: flex-start; flex-direction: column; flex-wrap: wrap; padding-left: 10px; padding-right: 10px; padding-bottom: 20px; padding-top: 52px; background-color: rgba(0, 0, 0, 0); align-content: center;">
+            <ui:DropdownField label="Tendens" name="Tendens" choices="Bias,Objektiv,Subjektiv" style="overflow: visible;"/>
             <ui:DropdownField label="Ægthed" name="Aegthed" choices="AI Billede/Tekst,Tid Passer Ikke,Ægte"/>
             <ui:DropdownField label="Afhængighed" name="Afhaengighed" choices="Førstehåndskilde,Andenhåndskilde"/>
-            <ui:DropdownField label="Afsender" name="Afsender" choices="Journalist,Ekspert,Almen Person,AI,Influencer"/>
+            <ui:DropdownField label="Afsender" name="Afsender" choices="Journalist,Ekspert,Almen Person,AI,Influencer" class="DropDownSets"/>
             <ui:DropdownField label="Vidensniveau" name="Vidensniveau" choices="Akademisk,Fagligt,Formidlende"/>
             <ui:DropdownField label="Tid" name="Tid" choices="Samtidskilde,Efterhåndskilde"/>
         </ui:VisualElement>
-        <ui:VisualElement style="flex-grow: 0; flex-basis: 10%; flex-shrink: 1; flex-direction: column-reverse; flex-wrap: wrap; justify-content: center; align-items: stretch; align-self: flex-end; width: 536px; align-content: auto; padding-bottom: 0; margin-bottom: 15px;">
-            <ui:Button text="Tjek Kilde" name="Tjek" style="align-self: center; align-items: flex-end; flex-direction: row-reverse; flex-wrap: wrap; white-space: nowrap; text-overflow: clip; -unity-text-align: upper-center; align-content: stretch; justify-content: center; width: 168px;"/>
+        <ui:VisualElement style="flex-grow: 0; flex-basis: 10%; flex-shrink: 1; flex-direction: column-reverse; flex-wrap: wrap; justify-content: center; align-items: stretch; align-self: flex-end; width: 572px; align-content: center; padding-bottom: 0; margin-bottom: 15px;">
+            <ui:Button text="Tjek Kilde" name="Tjek" style="align-self: center; align-items: flex-end; flex-direction: row-reverse; flex-wrap: wrap; white-space: nowrap; text-overflow: clip; -unity-text-align: upper-center; align-content: stretch; justify-content: center; width: 168px; padding-bottom: 15px; padding-top: 10px; border-bottom-width: 6px;"/>
         </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>
