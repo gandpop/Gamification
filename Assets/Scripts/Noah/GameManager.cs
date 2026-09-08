@@ -20,14 +20,14 @@ public class GameManager : MonoBehaviour
     [Header("2. ÆGTHED (0 til 10)")]
     [Tooltip("Troværdighed for AI billede/tekst (hvis valgt, nulstilles den samlede score altid til 0)")]
     [Range(0f, 10f)] [SerializeField] private float aegthedAiBilledeTekst = 0f;
-    [Tooltip("Troværdighed for Tid passer ikke")]
-    [Range(0f, 10f)] [SerializeField] private float aegthedTidPasserIkke = 2f;
+    [Tooltip("Troværdighed for Tid passer ikke (hvis valgt, nulstilles den samlede score altid til 0)")]
+    [Range(0f, 10f)] [SerializeField] private float aegthedTidPasserIkke = 0f;
     [Tooltip("Troværdighed for Ægte")]
     [Range(0f, 10f)] [SerializeField] private float aegthedAegte = 10f;
 
     [Header("3. TENDENS (0 til 10)")]
     [Tooltip("Troværdighed for Bias")]
-    [Range(0f, 10f)] [SerializeField] private float tendensBias = 3f;
+    [Range(-10f, 10f)] [SerializeField] private float tendensBias = 3f;
     [Tooltip("Troværdighed for Objektiv")]
     [Range(0f, 10f)] [SerializeField] private float tendensObjektiv = 9f;
     [Tooltip("Troværdighed for Subjektiv")]
@@ -123,7 +123,8 @@ public class GameManager : MonoBehaviour
 
     /// <summary>
     /// Calculates the average trustworthiness rating (0 to 10) for the given KildeScript.
-    /// If any category contains AI (Afsender.AI or Aegthed.AiBilledeTekst), the rating is immediately 0.0.
+    /// If any category contains AI (Afsender.AI or Aegthed.AiBilledeTekst) or fake time (Aegthed.TidPasserIkke),
+    /// the rating is immediately set to 0.0.
     /// </summary>
     public float CalculateTrustRating(KildeScript kilde)
     {
@@ -133,16 +134,21 @@ public class GameManager : MonoBehaviour
             return 0f;
         }
 
-        // Check if any category is AI-related (automatically disqualifies the source)
+        // Check if any category disqualifies the source (AI or time mismatch)
         bool isAIRelated = kilde.Afsender == Afsender.AI || kilde.Aegthed == Aegthed.AiBilledeTekst;
+        bool isTimeMismatch = kilde.Aegthed == Aegthed.TidPasserIkke;
 
-        if (isAIRelated)
+        if (isAIRelated || isTimeMismatch)
         {
             LastCalculatedTrustRating = 0f;
 
+            string reason = (isAIRelated && isTimeMismatch)
+                ? "AI opdaget og tid passer ikke (kilden er uægte)"
+                : (isAIRelated ? "AI opdaget (AI-kilder er ikke akademisk pålidelige)" : "Tid passer ikke (kilden er uægte)");
+
             Debug.Log($"[Troværdighedsvurdering for: {kilde.gameObject.name}]\n" +
-                      $"• AI opdaget! (Afsender: {kilde.Afsender}, Ægthed: {kilde.Aegthed})\n" +
-                      $"==> Troværdighed (Trust Rating): 0.0 / 10 (AI-kilder er ikke akademisk pålidelige!)");
+                      $"• Diskvalificeret: {reason}!\n" +
+                      $"==> Troværdighed (Trust Rating): 0.0 / 10");
 
             OnTrustRatingCalculated?.Invoke(0f, kilde);
             return 0f;

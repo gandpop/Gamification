@@ -299,12 +299,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2386ebeb40d05aa41b88fdce602955b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  afsender: 3
+  afsender: 4
   aegthed: 2
-  tendens: 1
+  tendens: 0
   tid: 0
   afhaengighed: 0
-  vidensniveau: 0
+  vidensniveau: 1
 --- !u!212 &825272871
 SpriteRenderer:
   serializedVersion: 2
@@ -411,21 +411,21 @@ MonoBehaviour:
   afsenderJournalist: 9
   afsenderEkspert: 10
   afsenderAlmenPerson: 3
-  afsenderAI: -30
+  afsenderAI: 0
   afsenderInfluencer: 2
-  aegthedAiBilledeTekst: -30
-  aegthedTidPasserIkke: -30
+  aegthedAiBilledeTekst: 0
+  aegthedTidPasserIkke: 0
   aegthedAegte: 10
-  tendensBias: 1
+  tendensBias: -4
   tendensObjektiv: 10
-  tendensSubjektiv: 7
+  tendensSubjektiv: 6
   tidSamtidskilde: 10
   tidEfterhaandskilde: 8
   afhaengighedFoerstehaandskilde: 10
   afhaengighedAndenhaandskilde: 8
   vidensniveauAkademisk: 10
   vidensniveauFagligt: 9
-  vidensniveauFormidlende: 4
+  vidensniveauFormidlende: 7
 --- !u!4 &1102958215
 Transform:
   m_ObjectHideFlags: 0
