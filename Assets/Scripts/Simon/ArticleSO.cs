@@ -1,72 +1,67 @@
 using UnityEngine;
 
-#region Kildekritik Enums
-
-/*public enum Afsender
+#region Kildekritik kategorier
+public enum Afsender
 {
-    [InspectorName("Journalist")]
     Journalist,
-    [InspectorName("Ekspert")]
     Ekspert,
-    [InspectorName("Almen person")]
     AlmenPerson,
-    [InspectorName("AI")]
     AI,
-    [InspectorName("Influencer")]
     Influencer
 }
 
 public enum Aegthed
 {
-    [InspectorName("AI billede/tekst")]
     AiBilledeTekst,
-    [InspectorName("Tid passer ikke")]
     TidPasserIkke,
-    [InspectorName("Ægte")]
     Aegte
 }
 
 public enum Tendens
 {
-    [InspectorName("Bias")]
     Bias,
-    [InspectorName("Objektiv")]
     Objektiv,
-    [InspectorName("Subjektiv")]
     Subjektiv
 }
 
 public enum Tid
 {
-    [InspectorName("Samtidskilde")]
     Samtidskilde,
-    [InspectorName("Efterhåndskilde")]
     Efterhaandskilde
 }
 
 public enum Afhaengighed
 {
-    [InspectorName("Førstehåndskilde")]
     Foerstehaandskilde,
-    [InspectorName("Andenhåndskilde")]
     Andenhaandskilde
 }
 
 public enum Vidensniveau
 {
-    [InspectorName("Det akademiske niveau")]
     DetAkademiskeNiveau,
-    [InspectorName("Det faglige niveau")]
     DetFagligeNiveau,
-    [InspectorName("Det formidlende niveau")]
     DetFormidlendeNiveau
-}*/
-
+}
 #endregion
 
-public class KildeScript : MonoBehaviour
+[CreateAssetMenu(fileName = "New Article", menuName = "Source/Article")]
+public class ArticleSO : ScriptableObject
 {
+    [Header("Article elements")]
+    [Header("Texts")]
+    public string articleName; // The header of the article
+    public string authorAndDate; // Author and date (top left)
+    public string rightSideText; // The text on the right side of the top image
+    public string articleText; // The text below the top image
+
+    [Header("Images")]
+    public Sprite topImage; // The image at the top
+    public Sprite bottomImage; // The image at the top
+
     [Header("Kildekritik Indstillinger")]
+    // Serialized variabler, som kan ændres i Inpector,
+    // men da de skal læses et andet sted fra, så laver vi en 'Property' længere nede,
+    // som returner værdien af den private variabel
     [SerializeField] private Afsender afsender;
     [SerializeField] private Aegthed aegthed;
     [SerializeField] private Tendens tendens;
@@ -74,7 +69,7 @@ public class KildeScript : MonoBehaviour
     [SerializeField] private Afhaengighed afhaengighed;
     [SerializeField] private Vidensniveau vidensniveau;
 
-    // Public properties to allow access from other scripts (e.g., GameManager, UI, scoring)
+    // Det her er properties. 
     public Afsender Afsender => afsender;
     public Aegthed Aegthed => aegthed;
     public Tendens Tendens => tendens;
@@ -82,4 +77,3 @@ public class KildeScript : MonoBehaviour
     public Afhaengighed Afhaengighed => afhaengighed;
     public Vidensniveau Vidensniveau => vidensniveau;
 }
-

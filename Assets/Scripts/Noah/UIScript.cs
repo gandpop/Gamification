@@ -88,10 +88,10 @@ public class UIScript : MonoBehaviour
 
     private void OnTjekClicked()
     {
-        CheckAnswers();
+    //    CheckAnswers();
     }
 
-    public bool CheckAnswers()
+    /*public bool CheckAnswers()
     {
         if (targetKilde == null)
         {
@@ -107,7 +107,7 @@ public class UIScript : MonoBehaviour
         List<string> wrongCategories = new List<string>();
 
         // Check each category by index matching enum values
-        if (afsenderDropdown == null || afsenderDropdown.index != (int)targetKilde.Afsender)
+        /*if (afsenderDropdown == null || afsenderDropdown.index != (int)targetKilde.Afsender)
             wrongCategories.Add("Afsender");
 
         if (aegthedDropdown == null || aegthedDropdown.index != (int)targetKilde.Aegthed)
@@ -135,6 +135,6 @@ public class UIScript : MonoBehaviour
             Debug.Log($"Forkert! Svarene matcher ikke kilden. (Forkerte felter: {string.Join(", ", wrongCategories)})");
             return false;
         }
-    }
+    }*/
 }
 
