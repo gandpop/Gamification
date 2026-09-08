@@ -189,6 +189,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   uiDocument: {fileID: 0}
   targetKilde: {fileID: 0}
+  gameManager: {fileID: 1102958214}
 --- !u!1 &731145270
 GameObject:
   m_ObjectHideFlags: 0
@@ -298,12 +299,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2386ebeb40d05aa41b88fdce602955b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  afsender: 0
+  afsender: 3
   aegthed: 2
   tendens: 1
   tid: 0
-  afhaengighed: 1
-  vidensniveau: 2
+  afhaengighed: 0
+  vidensniveau: 0
 --- !u!212 &825272871
 SpriteRenderer:
   serializedVersion: 2
@@ -373,6 +374,68 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -3.89, y: 0.05, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1102958213
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1102958215}
+  - component: {fileID: 1102958214}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1102958214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1102958213}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0494875c3ef173d4088b7aba55541365, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  afsenderJournalist: 9
+  afsenderEkspert: 10
+  afsenderAlmenPerson: 3
+  afsenderAI: -30
+  afsenderInfluencer: 2
+  aegthedAiBilledeTekst: -30
+  aegthedTidPasserIkke: -30
+  aegthedAegte: 10
+  tendensBias: 1
+  tendensObjektiv: 10
+  tendensSubjektiv: 7
+  tidSamtidskilde: 10
+  tidEfterhaandskilde: 8
+  afhaengighedFoerstehaandskilde: 10
+  afhaengighedAndenhaandskilde: 8
+  vidensniveauAkademisk: 10
+  vidensniveauFagligt: 9
+  vidensniveauFormidlende: 4
+--- !u!4 &1102958215
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1102958213}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.23573, y: -0.60876, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -610,6 +673,7 @@ MonoBehaviour:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 1102958215}
   - {fileID: 1836996269}
   - {fileID: 825272872}
   - {fileID: 598514378}
