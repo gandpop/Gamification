@@ -299,12 +299,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2386ebeb40d05aa41b88fdce602955b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  afsender: 4
+  afsender: 0
   aegthed: 2
-  tendens: 0
+  tendens: 1
   tid: 0
-  afhaengighed: 0
-  vidensniveau: 1
+  afhaengighed: 1
+  vidensniveau: 2
 --- !u!212 &825272871
 SpriteRenderer:
   serializedVersion: 2
