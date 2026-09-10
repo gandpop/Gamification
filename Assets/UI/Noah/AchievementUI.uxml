@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Noah/AchievementUI.uss?fileID=7433441132597879392&amp;guid=2a914155a44c73142b6b794292474fb6&amp;type=3#AchievementUI"/>
+    <ui:VisualElement name="achievement-drawer" class="drawer drawer--closed">
+        <ui:Button name="achievement-tab" text="⚑" class="drawer-tab" style="top: -117px;"/>
+        <ui:VisualElement name="achievement-content" class="drawer-content">
+            <ui:Label text="Achievements" class="drawer-title"/>
+            <ui:ScrollView name="achievement-list" class="drawer-list"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
