@@ -16,12 +16,14 @@ public class SourceManager : MonoBehaviour
 
     public List<ArticleData> PickArticles(int articlesToPick)
     {
+        List<ArticleData> pool = new List<ArticleData>(articles);
         List<ArticleData> pickedArticles = new List<ArticleData>();
 
         for (int i = 0; i < articlesToPick; i++)
         {
             int value = Random.Range(0, articles.Length);
-            pickedArticles.Add(articles[value]);
+            pickedArticles.Add(pool[value]);
+            pool.RemoveAt(value);
         }
         return pickedArticles;
     }
