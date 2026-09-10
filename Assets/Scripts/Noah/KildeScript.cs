@@ -1,8 +1,8 @@
 using UnityEngine;
 
 #region Kildekritik Enums
-
-/*public enum Afsender
+/*
+public enum Afsender
 {
     [InspectorName("Journalist")]
     Journalist,
@@ -60,8 +60,8 @@ public enum Vidensniveau
     DetFagligeNiveau,
     [InspectorName("Det formidlende niveau")]
     DetFormidlendeNiveau
-}*/
-
+}
+*/
 #endregion
 
 public class KildeScript : MonoBehaviour

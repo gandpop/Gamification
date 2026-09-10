@@ -1,9 +1,9 @@
 using System;
 using UnityEngine;
 
-public class GameManager : MonoBehaviour
+public class SourceCalculator : MonoBehaviour
 {
-    public static GameManager Instance { get; private set; }
+    public static SourceCalculator Instance { get; private set; }
 
     [Header("1. AFSENDER (0 til 10)")]
     [Tooltip("Troværdighed for Journalist")]

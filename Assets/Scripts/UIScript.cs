@@ -7,7 +7,7 @@ public class UIScript : MonoBehaviour
     [Header("Referencer")]
     [SerializeField] private UIDocument uiDocument;
     [SerializeField] private KildeScript targetKilde;
-    [SerializeField] private GameManager gameManager;
+    [SerializeField] private SourceCalculator gameManager;
 
     // UI Elements
     private Button tjekButton;
