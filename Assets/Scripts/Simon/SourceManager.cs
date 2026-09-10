@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class SourceManager : MonoBehaviour
 {
@@ -13,11 +14,15 @@ public class SourceManager : MonoBehaviour
         else Destroy(gameObject);
     }
 
-    public ArticleData[] ShuffleSources()
+    public List<ArticleData> PickArticles(int articlesToPick)
     {
-        foreach (ArticleData article in articles)
+        List<ArticleData> pickedArticles = new List<ArticleData>();
+
+        for (int i = 0; i < articlesToPick; i++)
         {
-            
+            int value = Random.Range(0, articles.Length);
+            pickedArticles.Add(articles[value]);
         }
+        return pickedArticles;
     }
 }

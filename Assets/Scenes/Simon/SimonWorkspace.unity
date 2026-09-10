@@ -219,7 +219,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 284210900}
-  - component: {fileID: 284210899}
+  - component: {fileID: 284210902}
   - component: {fileID: 284210901}
   m_Layer: 0
   m_Name: GameManager
@@ -228,18 +228,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &284210899
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 284210898}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 047d3a66eff788a4bb3613b86c14edef, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::GameManager
 --- !u!4 &284210900
 Transform:
   m_ObjectHideFlags: 0
@@ -267,7 +255,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63a535701d973e14fa5bd07db39af716, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SourceManager
-  article: []
+  articles:
+  - {fileID: 11400000, guid: efd3c22d2440cfb49a8d4566b7e79a37, type: 2}
+  - {fileID: 11400000, guid: 632928a1d2093114f93544c81fc7ccbd, type: 2}
+  - {fileID: 11400000, guid: 0cde3fd4f868d7c499190e72fe8f8e04, type: 2}
+  - {fileID: 11400000, guid: 1a13b9d80bd413747a0f1d0ce1ca187e, type: 2}
+--- !u!114 &284210902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 284210898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 047d3a66eff788a4bb3613b86c14edef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameManager
 --- !u!1 &598514376
 GameObject:
   m_ObjectHideFlags: 0
@@ -404,7 +408,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 4952837872703270332, guid: 87b51e7ee6a407044a6f283cb446ebf8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
