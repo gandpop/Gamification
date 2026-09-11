@@ -2,9 +2,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-/// <summary>
-/// Greybox achievement drawer: hidden off-screen, pulled out by clicking the tab.
-/// </summary>
 public class AchievementPanelController : MonoBehaviour
 {
     [System.Serializable]
@@ -53,7 +50,6 @@ public class AchievementPanelController : MonoBehaviour
         if (tab != null) tab.clicked -= ToggleDrawer;
     }
 
-    // Refreshes the drawer when a field is toggled in the Inspector during Play mode
     private void OnValidate()
     {
         if (Application.isPlaying) BuildAchievementList();
