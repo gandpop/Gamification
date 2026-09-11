@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 
 public class DisplayArticle : MonoBehaviour
 {
@@ -9,4 +9,4 @@ public class DisplayArticle : MonoBehaviour
     {
         currentArticle = data;
     }
-}
+}*/

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51fede4e601e3bf42aa308e934212dfe, type: 3}
   m_Name: Article_8
   m_EditorClassIdentifier: Assembly-CSharp::ArticleData
-  ArticleTexture: {fileID: 0}
+  ArticleTexture: {fileID: 6817955533674845580, guid: 1957f25296e2b5d4db854373c2b968cb, type: 3}
   ArticleID: 8
   Afsender: 0
   Aegthed: 0
