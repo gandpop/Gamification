@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51fede4e601e3bf42aa308e934212dfe, type: 3}
   m_Name: Article_2
   m_EditorClassIdentifier: Assembly-CSharp::ArticleData
-  ArticleTexture: {fileID: 0}
+  ArticleTexture: {fileID: 988192558661109340, guid: 80e846fed026e114db3f2cd1e745393b, type: 3}
   ArticleID: 2
-  Afsender: 0
-  Aegthed: 0
+  Afsender: 3
+  Aegthed: 2
   Tendens: 0
-  Tid: 0
-  Afhaengighed: 0
-  Vidensniveau: 0
+  Tid: 1
+  Afhaengighed: 1
+  Vidensniveau: 2

@@ -7,7 +7,7 @@ public class UIScript : MonoBehaviour
     [Header("Referencer")]
     [SerializeField] private UIDocument uiDocument;
     [SerializeField] private KildeScript targetKilde;
-    [SerializeField] private SourceCalculator gameManager;
+    [SerializeField] private SourceCalculator sourceCalculator;
 
     // UI Elements
     private Button tjekButton;
@@ -89,10 +89,10 @@ public class UIScript : MonoBehaviour
 
     private void OnTjekClicked()
     {
-    //    CheckAnswers();
+        CheckAnswers();
     }
 
-    /*public bool CheckAnswers()
+    public bool CheckAnswers()
     {
         if (targetKilde == null)
         {
@@ -108,7 +108,7 @@ public class UIScript : MonoBehaviour
         List<string> wrongCategories = new List<string>();
 
         // Check each category by index matching enum values
-        /*if (afsenderDropdown == null || afsenderDropdown.index != (int)targetKilde.Afsender)
+        if (afsenderDropdown == null || afsenderDropdown.index != (int)targetKilde.Afsender)
             wrongCategories.Add("Afsender");
 
         if (aegthedDropdown == null || aegthedDropdown.index != (int)targetKilde.Aegthed)
@@ -131,14 +131,15 @@ public class UIScript : MonoBehaviour
             Debug.Log("Korrekt! Alle svar matcher kilden.");
 
             // Calculate trust rating for the source
-            GameManager gm = gameManager != null ? gameManager : (GameManager.Instance != null ? GameManager.Instance : Object.FindAnyObjectByType<GameManager>());
-            if (gm != null)
+            sourceCalculator = Object.FindAnyObjectByType<SourceCalculator>();
+            
+            if (sourceCalculator != null)
             {
-                gm.CalculateTrustRating(targetKilde);
+                sourceCalculator.CalculateTrustRating(targetKilde);
             }
             else
             {
-                Debug.LogWarning("UIScript: GameManager blev ikke fundet i scenen til beregning af troværdighed.");
+                Debug.LogWarning("UIScript: No SourceCalculator.");
             }
 
             return true;
@@ -148,6 +149,6 @@ public class UIScript : MonoBehaviour
             Debug.Log($"Forkert! Svarene matcher ikke kilden. (Forkerte felter: {string.Join(", ", wrongCategories)})");
             return false;
         }
-    }*/
+    }
 }
 
