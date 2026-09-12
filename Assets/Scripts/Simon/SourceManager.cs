@@ -5,13 +5,15 @@ public class SourceManager : MonoBehaviour
 {
     public static SourceManager Instance { get; private set; }
 
-    [Header("All Articles")]
+    [Header("All Articles (set manually)")]
     [SerializeField] ArticleData[] articles;
 
-    [Header("Current article and list")]
-    [SerializeField] private ArticleData activeArticle; //Serialized for debugging purposes
+    [Header("Active article and list (serialized only for debugging purposes)")]
+    [SerializeField] private ArticleData activeArticle; 
     public ArticleData ActiveArticle => activeArticle; //Property to acess currentArticle without being able to set anything
-
+    [SerializeField] private List<ArticleData> listOfPickedArticles;
+    public List<ArticleData> ListOfPickedArticles => listOfPickedArticles;
+    
     void Awake()
     {
         if (Instance == null) Instance = this;
@@ -19,25 +21,29 @@ public class SourceManager : MonoBehaviour
     }
 
     /// <summary>
-    /// Returns a list containing the specified number of articles.
+    /// Randomly selects specified amount of articles, and saves them to listOfPickedArticles.
     /// </summary>
-    public List<ArticleData> PickArticles(int articlesToPick)
+    public void PickArticles(int articlesToPick)
     {
         List<ArticleData> pool = new List<ArticleData>(articles);
         List<ArticleData> pickedArticles = new List<ArticleData>();
 
         for (int i = 0; i < articlesToPick; i++)
         {
-            int value = Random.Range(0, articles.Length);
+            int value = Random.Range(0, pool.Count);
             pickedArticles.Add(pool[value]);
             pool.RemoveAt(value);
         }
-        return pickedArticles;
+        listOfPickedArticles = pickedArticles;
+
     }
 
-    public void ShowArticle(ArticleData data)
+    public void ShowFirstArticle()
     {
-        activeArticle = data;
+        activeArticle = listOfPickedArticles[0];
+        GameObject articleObj = GameObject.FindWithTag("Article");
+        articleObj.GetComponent<SpriteRenderer>().sprite = activeArticle.ArticleTexture;
+        listOfPickedArticles.RemoveAt(0);
     }
 
     public void ShowNextArticle()

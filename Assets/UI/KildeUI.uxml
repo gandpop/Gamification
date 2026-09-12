@@ -1,7 +1,7 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <Style src="project://database/Assets/UI/Noah/StyleSheet.uss?fileID=7433441132597879392&amp;guid=c09fef67372cb624c98330bfd1ad806b&amp;type=3#StyleSheet"/>
+    <Style src="project://database/Assets/UI/StyleSheet.uss?fileID=7433441132597879392&amp;guid=c09fef67372cb624c98330bfd1ad806b&amp;type=3#StyleSheet"/>
     <ui:VisualElement style="flex-grow: 1; justify-content: flex-start;">
-        <ui:VisualElement name="container" style="flex-grow: 1; flex-basis: 0%; align-self: flex-end; height: 112px; width: 571px; flex-shrink: 1; align-items: auto; justify-content: flex-start; flex-direction: column; flex-wrap: wrap; padding-left: 10px; padding-right: 10px; padding-bottom: 20px; padding-top: 52px; background-color: rgba(0, 0, 0, 0); align-content: center;">
+        <ui:VisualElement name="DropdownsParent" style="flex-grow: 1; flex-basis: 0%; align-self: flex-end; height: 112px; width: 590px; flex-shrink: 1; align-items: auto; justify-content: flex-start; flex-direction: column; flex-wrap: wrap; padding-left: 10px; padding-right: 10px; padding-bottom: 20px; padding-top: 52px; background-color: rgba(0, 0, 0, 0); align-content: center;">
             <ui:DropdownField label="Tendens" name="Tendens" choices="Bias,Objektiv,Subjektiv" style="overflow: visible;"/>
             <ui:DropdownField label="Ægthed" name="Aegthed" choices="AI Billede/Tekst,Tid Passer Ikke,Ægte"/>
             <ui:DropdownField label="Afhængighed" name="Afhaengighed" choices="Førstehåndskilde,Andenhåndskilde"/>
