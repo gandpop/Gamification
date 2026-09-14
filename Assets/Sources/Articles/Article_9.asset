@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fede4e601e3bf42aa308e934212dfe, type: 3}
+  m_Name: Article_9
+  m_EditorClassIdentifier: Assembly-CSharp::ArticleData
+  ArticleTexture: {fileID: -508792468242344999, guid: 779d32f80b65cc14fa4d1fc995a3d4bf, type: 3}
+  ArticleID: 9
+  Afsender: 0
+  Aegthed: 1
+  Tendens: 1
+  Tid: 1
+  Afhaengighed: 1
+  Vidensniveau: 1

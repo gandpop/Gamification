@@ -7,7 +7,7 @@ public class UIScript : MonoBehaviour
     [Header("Referencer")]
     [SerializeField] private UIDocument uiDocument;
     [SerializeField] private KildeScript targetKilde;
-    [SerializeField] private GameManager gameManager;
+    [SerializeField] private SourceCalculator sourceCalculator;
 
     // UI Elements
     private Button tjekButton;
@@ -131,14 +131,15 @@ public class UIScript : MonoBehaviour
             Debug.Log("Korrekt! Alle svar matcher kilden.");
 
             // Calculate trust rating for the source
-            GameManager gm = gameManager != null ? gameManager : (GameManager.Instance != null ? GameManager.Instance : Object.FindAnyObjectByType<GameManager>());
-            if (gm != null)
+            sourceCalculator = Object.FindAnyObjectByType<SourceCalculator>();
+            
+            if (sourceCalculator != null)
             {
-                gm.CalculateTrustRating(targetKilde);
+                sourceCalculator.CalculateTrustRating(targetKilde);
             }
             else
             {
-                Debug.LogWarning("UIScript: GameManager blev ikke fundet i scenen til beregning af troværdighed.");
+                Debug.LogWarning("UIScript: No SourceCalculator.");
             }
 
             return true;
