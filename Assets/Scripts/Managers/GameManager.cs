@@ -33,11 +33,18 @@ public class GameManager : MonoBehaviour
         PlayerHealth = 3;
 
         SourceManager.Instance.PickArticles(HowManyArticles);
-        SourceManager.Instance.ShowFirstArticle();   
+        SourceManager.Instance.ShowNextArticle();
+        Debug.Log("Game started");
     }
     
     public void RemoveHealthPoint(int healthToRemove)
     {
         PlayerHealth -= healthToRemove;
+    }
+
+    public void GameLost()
+    {
+        CurrentGameState = GameState.GameOver;
+        Debug.Log("You ded");
     }
 }
