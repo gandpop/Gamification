@@ -5,7 +5,7 @@ public class UIManager : MonoBehaviour
 {
     public static UIManager Instance;
 
-    [Header("UI Documents (set manually)")]
+    [Header("UI Documents (set automatically)")]
     [SerializeField] UIDocument mainMenuUI;
     [SerializeField] UIDocument inGameUI;
     [SerializeField] UIDocument gameLostUI;
