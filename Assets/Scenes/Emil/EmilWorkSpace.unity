@@ -189,7 +189,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   uiDocument: {fileID: 0}
   targetKilde: {fileID: 0}
-  gameManager: {fileID: 1102958214}
+  sourceCalculator: {fileID: 0}
 --- !u!1 &731145270
 GameObject:
   m_ObjectHideFlags: 0
@@ -408,24 +408,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0494875c3ef173d4088b7aba55541365, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  afsenderJournalist: 9
-  afsenderEkspert: 10
-  afsenderAlmenPerson: 3
+  afsenderJournalist: 90
+  afsenderEkspert: 100
+  afsenderAlmenPerson: 30
   afsenderAI: 0
-  afsenderInfluencer: 2
+  afsenderInfluencer: 20
   aegthedAiBilledeTekst: 0
   aegthedTidPasserIkke: 0
-  aegthedAegte: 10
+  aegthedAegte: 100
   tendensBias: -4
-  tendensObjektiv: 10
+  tendensObjektiv: 100
   tendensSubjektiv: 6
-  tidSamtidskilde: 10
-  tidEfterhaandskilde: 8
-  afhaengighedFoerstehaandskilde: 10
-  afhaengighedAndenhaandskilde: 8
-  vidensniveauAkademisk: 10
-  vidensniveauFagligt: 9
-  vidensniveauFormidlende: 7
+  tidSamtidskilde: 100
+  tidEfterhaandskilde: 80
+  afhaengighedFoerstehaandskilde: 100
+  afhaengighedAndenhaandskilde: 80
+  vidensniveauAkademisk: 100
+  vidensniveauFagligt: 90
+  vidensniveauFormidlende: 70
 --- !u!4 &1102958215
 Transform:
   m_ObjectHideFlags: 0
