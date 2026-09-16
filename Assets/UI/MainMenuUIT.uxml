@@ -1,0 +1,13 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/StyleSheet.uss?fileID=7433441132597879392&amp;guid=c09fef67372cb624c98330bfd1ad806b&amp;type=3#StyleSheet"/>
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:VisualElement name="TitleContainer" style="flex-grow: 1; max-width: 600px; max-height: 176px; width: 659px; align-self: center; align-content: auto; align-items: auto; flex-direction: column; flex-wrap: nowrap; justify-content: center; padding-left: 20px; padding-right: 20px; padding-top: 0; margin-top: 77px;">
+            <ui:Label text="KILDEKRITIKER" name="Titel" parse-escape-sequences="false" style="height: 72px; align-content: flex-start; align-self: center; justify-content: flex-start; color: rgb(0, 0, 0); -unity-font-definition: url(&quot;project://database/Assets/UI/monof55.ttf?fileID=12800000&amp;guid=111af795b0311a1439560254510a5957&amp;type=3#monof55&quot;); font-size: 67px; -unity-font-style: bold;"/>
+        </ui:VisualElement>
+        <ui:VisualElement name="ButtonContainer" style="flex-grow: 1; max-width: 600px; max-height: 297px; width: 659px; align-self: center; align-content: auto; align-items: center; flex-direction: column; flex-wrap: nowrap; justify-content: center; padding-left: 20px; padding-right: 20px;">
+            <ui:Button text="Start Spil" name="StartButton" style="align-items: auto; align-content: auto; flex-direction: column; margin-top: 30px; margin-bottom: 30px; background-color: rgb(131, 158, 240);"/>
+            <ui:Button text="Indstillinger" name="IndstillingerButton" style="background-color: rgb(131, 158, 240);"/>
+            <ui:Button text="Luk Spil" name="LukButton" style="margin-bottom: 30px; margin-top: 30px; background-color: rgb(255, 112, 174);"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

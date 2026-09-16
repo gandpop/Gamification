@@ -1,0 +1,5 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Border" style="flex-grow: 1; align-content: auto; align-self: auto; justify-content: center; align-items: stretch;">
+        <ui:VisualElement name="Container" style="flex-grow: 1; max-width: 475px; max-height: 557px; justify-content: flex-end; background-color: rgba(0, 0, 0, 0.596); align-items: stretch;"/>
+    </ui:VisualElement>
+</ui:UXML>

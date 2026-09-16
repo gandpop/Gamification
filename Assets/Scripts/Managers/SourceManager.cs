@@ -34,11 +34,11 @@ public class SourceManager : MonoBehaviour
             pickedArticles.Add(pool[value]);
             pool.RemoveAt(value);
         }
-        listOfPickedArticles = pickedArticles;
 
+        listOfPickedArticles = pickedArticles;
     }
 
-    public void ShowFirstArticle()
+    public void ShowNextArticle()
     {
         activeArticle = listOfPickedArticles[0];
         GameObject articleObj = GameObject.FindWithTag("Article");
@@ -46,8 +46,40 @@ public class SourceManager : MonoBehaviour
         listOfPickedArticles.RemoveAt(0);
     }
 
-    public void ShowNextArticle()
+    public void CheckAnswers(List<int> answers)
     {
-        
+        List<int> wronganswers = new List<int>();
+
+        if (answers[0] != (int)activeArticle.Tendens) wronganswers.Add(answers[0]);
+        if (answers[1] != (int)activeArticle.Aegthed) wronganswers.Add(answers[1]);
+        if (answers[2] != (int)activeArticle.Afhaengighed) wronganswers.Add(answers[2]);
+        if (answers[3] != (int)activeArticle.Afsender) wronganswers.Add(answers[3]);
+        if (answers[4] != (int)activeArticle.Vidensniveau) wronganswers.Add(answers[4]);
+        if (answers[5] != (int)activeArticle.Tid) wronganswers.Add(answers[5]);
+
+        if (wronganswers.Count != 0)
+        {
+            GameManager.Instance.RemoveHealthPoint(1);
+            if (GameManager.Instance.PlayerHealth == 0)
+            {
+                GameManager.Instance.GameLost();
+                return;
+            }
+            // Highlight wrong answar 
+        }
+        else // If all answers are correct
+        {
+            if (listOfPickedArticles.Count == 0)
+            {
+                //SourceCalculator.Instance.CalculateTrustRating();
+                Debug.Log("You win the game");
+                UIManager.Instance.ShowUI(UIManager.Instance.GameWonUI);
+            }
+            else
+            {
+                Debug.Log("Correct!");
+                //SourceCalculator.Instance.CalculateTrustRating();
+            }
+        }
     }
 }

@@ -10,7 +10,7 @@
             <ui:DropdownField label="Tid" name="Tid" choices="Samtidskilde,Efterhåndskilde"/>
         </ui:VisualElement>
         <ui:VisualElement style="flex-grow: 0; flex-basis: 10%; flex-shrink: 1; flex-direction: column-reverse; flex-wrap: wrap; justify-content: center; align-items: stretch; align-self: flex-end; width: 572px; align-content: center; padding-bottom: 0; margin-bottom: 15px;">
-            <ui:Button text="Tjek Kilde" name="Tjek" style="align-self: center; align-items: flex-end; flex-direction: row-reverse; flex-wrap: wrap; white-space: nowrap; text-overflow: clip; -unity-text-align: upper-center; align-content: stretch; justify-content: center; width: 168px; padding-bottom: 15px; padding-top: 10px; border-bottom-width: 6px;"/>
+            <ui:Button text="Tjek Kilde" name="Tjek" style="align-self: center; align-items: flex-end; flex-direction: row-reverse; flex-wrap: wrap; white-space: nowrap; text-overflow: clip; -unity-text-align: upper-center; align-content: stretch; justify-content: center; width: 168px; padding-bottom: 15px; padding-top: 10px; border-bottom-width: 6px; background-color: rgb(131, 158, 240);"/>
         </ui:VisualElement>
     </ui:VisualElement>
 </ui:UXML>
