@@ -416,7 +416,7 @@ MonoBehaviour:
   aegthedAiBilledeTekst: 0
   aegthedTidPasserIkke: 0
   aegthedAegte: 100
-  tendensBias: -4
+  tendensBias: 0
   tendensObjektiv: 100
   tendensSubjektiv: 6
   tidSamtidskilde: 100
