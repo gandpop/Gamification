@@ -5,13 +5,52 @@ public class UI_GameWon : MonoBehaviour
 {
     private UIDocument UIDocument;
 
-    // Put all needed VisualElements fields here, and reference them in awake, similar to UI_InGame Script
+    // UI Elements
+    private Label titel;
+    private Button retry;
+    private Button backToMain;
 
     void Awake()
     {
         if (UIDocument == null) UIDocument = GetComponent<UIDocument>();
-        else Debug.LogWarning("Game Won UI: Couldn't find UIDocument");
+        else Debug.LogWarning("Kan ikke finde Game Won UI Document");
 
+        // Reference all UI elements
         VisualElement root = UIDocument.rootVisualElement;
+        titel = root.Q<Label>("Titel");
+        retry = root.Q<Button>("Retry");
+        backToMain = root.Q<Button>("BackToMain");
+
+    }
+
+    void OnEnable()
+    {
+        retry.clicked += OnRetryClicked;
+        backToMain.clicked += OnBackToMainClicked;
+    }
+
+    void OnDisable()
+    {
+        retry.clicked -= OnRetryClicked;
+        backToMain.clicked -= OnBackToMainClicked;
+    }
+
+
+    void OnRetryClicked()
+    {
+        Debug.Log("Prøver spillet igen");
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.StartGame();
+        }
+    }
+
+    void OnBackToMainClicked()
+    {
+        Debug.Log("Går til menuen");
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.CurrentGameState = GameState.MainMenu;
+        }
     }
 }
