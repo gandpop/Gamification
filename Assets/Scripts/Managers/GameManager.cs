@@ -31,7 +31,7 @@ public class GameManager : MonoBehaviour
     {
         CurrentGameState = GameState.InGame;
         PlayerHealth = 3;
-
+        UIManager.Instance.UpdateUI();
         SourceManager.Instance.PickArticles(HowManyArticles);
         SourceManager.Instance.ShowNextArticle();
         Debug.Log("Game started");
@@ -46,5 +46,11 @@ public class GameManager : MonoBehaviour
     {
         CurrentGameState = GameState.GameOver;
         Debug.Log("You ded");
+    }
+
+    public void GameWon()
+    {
+        CurrentGameState = GameState.GameWon;
+        Debug.Log("You win");
     }
 }

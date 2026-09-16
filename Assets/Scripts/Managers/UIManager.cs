@@ -27,7 +27,7 @@ public class UIManager : MonoBehaviour
         if (Instance == null) Instance = this;
         else Destroy(gameObject);
 
-        mainMenuUI = GetComponentInChildren<UIDocument>();
+        /*mainMenuUI = GetComponentInChildren<UIDocument>();
         inGameUI = GetComponentInChildren<UIDocument>();
         gameLostUI = GetComponentInChildren<UIDocument>();
         gameWonUI = GetComponentInChildren<UIDocument>();
@@ -37,11 +37,52 @@ public class UIManager : MonoBehaviour
         if (mainMenuUI == null) Debug.LogWarning("UIManager: mainMenuUI missing");
         if (inGameUI == null) Debug.LogWarning("UIManager: inGameUI missing");
         if (gameLostUI == null) Debug.LogWarning("UIManager: gameLostUI missing");
-        if (gameWonUI == null) Debug.LogWarning("UIManager: gameWonUI missing");
+        if (gameWonUI == null) Debug.LogWarning("UIManager: gameWonUI missing");*/
     }
 
-    public void ShowUI(UIDocument UIToEnable)
+    public void UpdateUI()
     {
-        UIToEnable.enabled = true;
+        switch (GameManager.Instance.CurrentGameState)
+        {
+            case GameState.MainMenu:
+                mainMenuUI.enabled = true;
+                inGameUI.enabled = false;
+                gameLostUI.enabled = false;
+                gameWonUI.enabled = false;
+                achievementUI.enabled = true;
+                cheatSheetUI.enabled = true;
+                break;
+
+            case GameState.InGame:
+                mainMenuUI.enabled = false;
+                inGameUI.enabled = true;
+                gameLostUI.enabled = false;
+                gameWonUI.enabled = false;
+                achievementUI.enabled = true;
+                cheatSheetUI.enabled = true;
+
+                break;
+
+            case GameState.GameOver:
+                mainMenuUI.enabled = false;
+                inGameUI.enabled = true;
+                gameLostUI.enabled = true;
+                gameWonUI.enabled = false;
+                achievementUI.enabled = true;
+                cheatSheetUI.enabled = true;
+
+                break;
+
+            case GameState.GameWon:
+                mainMenuUI.enabled = false;
+                inGameUI.enabled = true;
+                gameLostUI.enabled = false;
+                gameWonUI.enabled = true;
+                achievementUI.enabled = true;
+                cheatSheetUI.enabled = true;
+
+                break;
+
+        }
     }
 }
