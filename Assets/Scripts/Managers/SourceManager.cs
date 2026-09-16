@@ -69,16 +69,16 @@ public class SourceManager : MonoBehaviour
         }
         else // If all answers are correct
         {
-            if (listOfPickedArticles.Count == 0)
-            {
-                //SourceCalculator.Instance.CalculateTrustRating();
-                Debug.Log("You win the game");
-                UIManager.Instance.ShowUI(UIManager.Instance.GameWonUI);
-            }
-            else
+            if (listOfPickedArticles.Count != 0) // If more sources are left
             {
                 Debug.Log("Correct!");
                 //SourceCalculator.Instance.CalculateTrustRating();
+            }
+            else // If no more sources are left
+            {
+                //SourceCalculator.Instance.CalculateTrustRating();
+                GameManager.Instance.GameWon();
+                UIManager.Instance.UpdateUI();
             }
         }
     }
