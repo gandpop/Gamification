@@ -14,6 +14,8 @@ public class UI_InGame : MonoBehaviour
     private DropdownField vidensniveauDropdown;
     private DropdownField tidDropdown;
 
+    public List<DropdownField> allDropDowns { get; private set; } = new List<DropdownField>();
+
 
     void Awake()
     {
@@ -29,6 +31,9 @@ public class UI_InGame : MonoBehaviour
         vidensniveauDropdown = root.Q<DropdownField>("Vidensniveau");
         tidDropdown = root.Q<DropdownField>("Tid");
         tjekButton = root.Q<Button>("Tjek");
+
+        VisualElement dropdownParent = root.Q<VisualElement>("DropdownsParent");
+        allDropDowns = dropdownParent.Query<DropdownField>().ToList();
     }
     
     void OnEnable()

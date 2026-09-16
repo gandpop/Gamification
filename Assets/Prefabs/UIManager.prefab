@@ -52,7 +52,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 927998981287544822}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 19102, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -60,7 +60,7 @@ MonoBehaviour:
   m_PanelSettings: {fileID: 11400000, guid: d38c6d54f28fa1044bc92a166c0ae80b, type: 2}
   m_ParentUI: {fileID: 0}
   sourceAsset: {fileID: 9197481963319205126, guid: c5be593f1ad061743bb1cd7a209472fe, type: 3}
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Position: 0
   m_WorldSpaceSizeMode: 1
   m_WorldSpaceWidth: 1920
@@ -188,7 +188,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2632495935087620320}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 19102, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -196,7 +196,7 @@ MonoBehaviour:
   m_PanelSettings: {fileID: 11400000, guid: d38c6d54f28fa1044bc92a166c0ae80b, type: 2}
   m_ParentUI: {fileID: 0}
   sourceAsset: {fileID: 9197481963319205126, guid: cf733ba63975528489164bbe5052a5e3, type: 3}
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Position: 0
   m_WorldSpaceSizeMode: 1
   m_WorldSpaceWidth: 1920
@@ -213,7 +213,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2236798889137321300}
-  - component: {fileID: 5725217954410068701}
   - component: {fileID: 2893850238193740593}
   m_Layer: 0
   m_Name: CheatSheetUI
@@ -237,18 +236,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 8218852179755561018}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5725217954410068701
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3097925152736543023}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f638a1d9797e15b408f60101888e3e50, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::UI_GameWon
 --- !u!114 &2893850238193740593
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -263,8 +250,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.UIElements.UIDocument
   m_PanelSettings: {fileID: 11400000, guid: d38c6d54f28fa1044bc92a166c0ae80b, type: 2}
   m_ParentUI: {fileID: 0}
-  sourceAsset: {fileID: 0}
-  m_SortingOrder: 0
+  sourceAsset: {fileID: 9197481963319205126, guid: be35eb8abb5d3f343b94b16f7d53ad28, type: 3}
+  m_SortingOrder: 2
   m_Position: 0
   m_WorldSpaceSizeMode: 1
   m_WorldSpaceWidth: 1920
@@ -328,6 +315,7 @@ MonoBehaviour:
   gameWonUI: {fileID: 1753990361232188094}
   achievementUI: {fileID: 5805801559673021795}
   cheatSheetUI: {fileID: 2893850238193740593}
+  inGameUIScript: {fileID: 0}
 --- !u!1 &7144922776155331182
 GameObject:
   m_ObjectHideFlags: 0
@@ -380,7 +368,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7144922776155331182}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 19102, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -405,7 +393,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6501414125955675199}
-  - component: {fileID: 2172937049184732350}
   - component: {fileID: 5805801559673021795}
   m_Layer: 0
   m_Name: AchievementUI
@@ -429,18 +416,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 8218852179755561018}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2172937049184732350
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7155327765214855707}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f638a1d9797e15b408f60101888e3e50, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::UI_GameWon
 --- !u!114 &5805801559673021795
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -456,7 +431,7 @@ MonoBehaviour:
   m_PanelSettings: {fileID: 11400000, guid: d38c6d54f28fa1044bc92a166c0ae80b, type: 2}
   m_ParentUI: {fileID: 0}
   sourceAsset: {fileID: 9197481963319205126, guid: 647f894ad63a34d46929c5b87b4db759, type: 3}
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Position: 0
   m_WorldSpaceSizeMode: 1
   m_WorldSpaceWidth: 1920

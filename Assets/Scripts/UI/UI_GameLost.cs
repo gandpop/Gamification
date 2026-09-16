@@ -35,7 +35,6 @@ public class UI_GameLost : MonoBehaviour
         backToMain.clicked -= OnBackToMainClicked;
     }
 
-
     void OnRetryClicked()
     {
         Debug.Log("Prøver spillet igen");

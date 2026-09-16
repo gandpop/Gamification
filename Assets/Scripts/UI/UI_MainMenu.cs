@@ -52,7 +52,7 @@ public class UI_MainMenu : MonoBehaviour
 
     void OnLukButtonClicked()
     {
-        // Lukker spillet. Ikke så brugbart til Web-Build tho 
+        // Lukker spillet. Ikke super brugbart til Web-Build tho 
         Application.Quit();
     }
 }

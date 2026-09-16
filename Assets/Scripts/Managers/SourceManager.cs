@@ -40,6 +40,7 @@ public class SourceManager : MonoBehaviour
 
     public void ShowNextArticle()
     {
+        UIManager.Instance.ClearAnswers();
         activeArticle = listOfPickedArticles[0];
         GameObject articleObj = GameObject.FindWithTag("Article");
         articleObj.GetComponent<SpriteRenderer>().sprite = activeArticle.ArticleTexture;
@@ -78,7 +79,6 @@ public class SourceManager : MonoBehaviour
             {
                 //SourceCalculator.Instance.CalculateTrustRating();
                 GameManager.Instance.GameWon();
-                UIManager.Instance.UpdateUI();
             }
         }
     }
