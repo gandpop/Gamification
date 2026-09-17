@@ -25,13 +25,16 @@ public class GameManager : MonoBehaviour
     {
         if (Instance == null) Instance = this;
         else Destroy(gameObject);
+
+        CurrentGameState = GameState.MainMenu;
+        UIManager.Instance.UpdateUI();
     }
 
     public void StartGame()
     {
-        CurrentGameState = GameState.InGame;
         PlayerHealth = 3;
-
+        CurrentGameState = GameState.InGame;
+        UIManager.Instance.UpdateUI();
         SourceManager.Instance.PickArticles(HowManyArticles);
         SourceManager.Instance.ShowNextArticle();
         Debug.Log("Game started");
@@ -45,6 +48,14 @@ public class GameManager : MonoBehaviour
     public void GameLost()
     {
         CurrentGameState = GameState.GameOver;
+        UIManager.Instance.UpdateUI();
         Debug.Log("You ded");
+    }
+
+    public void GameWon()
+    {
+        CurrentGameState = GameState.GameWon;
+        UIManager.Instance.UpdateUI();
+        Debug.Log("You win");
     }
 }

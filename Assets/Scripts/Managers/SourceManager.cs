@@ -40,6 +40,7 @@ public class SourceManager : MonoBehaviour
 
     public void ShowNextArticle()
     {
+        UIManager.Instance.ClearAnswers();
         activeArticle = listOfPickedArticles[0];
         GameObject articleObj = GameObject.FindWithTag("Article");
         articleObj.GetComponent<SpriteRenderer>().sprite = activeArticle.ArticleTexture;
@@ -69,16 +70,15 @@ public class SourceManager : MonoBehaviour
         }
         else // If all answers are correct
         {
-            if (listOfPickedArticles.Count == 0)
-            {
-                //SourceCalculator.Instance.CalculateTrustRating();
-                Debug.Log("You win the game");
-                UIManager.Instance.ShowUI(UIManager.Instance.GameWonUI);
-            }
-            else
+            if (listOfPickedArticles.Count != 0) // If more sources are left
             {
                 Debug.Log("Correct!");
                 //SourceCalculator.Instance.CalculateTrustRating();
+            }
+            else // If no more sources are left
+            {
+                //SourceCalculator.Instance.CalculateTrustRating();
+                GameManager.Instance.GameWon();
             }
         }
     }

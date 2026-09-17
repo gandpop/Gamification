@@ -6,9 +6,6 @@ public class UI_MainMenu : MonoBehaviour
     private UIDocument UIDocument;
 
     // UI elements
-    private VisualElement titleContainer;
-    private Label titelLabel;
-    private VisualElement buttonContainer;
     private Button startButton;
     private Button indstillingerButton;
     private Button lukButton;
@@ -16,13 +13,10 @@ public class UI_MainMenu : MonoBehaviour
     void Awake()
     {
         if (UIDocument == null) UIDocument = GetComponent<UIDocument>();
-        else Debug.LogWarning("Kan ikke finde UI Document");
+        else Debug.LogWarning("Kan ikke finde Main Menu UI Document");
 
         // Reference all UI elements
         VisualElement root = UIDocument.rootVisualElement;
-        titleContainer = root.Q<VisualElement>("TitleContainer");
-        titelLabel = root.Q<Label>("Titel");
-        buttonContainer = root.Q<VisualElement>("ButtonContainer");
         startButton = root.Q<Button>("StartButton");
         indstillingerButton = root.Q<Button>("IndstillingerButton");
         lukButton = root.Q<Button>("LukButton");
@@ -58,7 +52,7 @@ public class UI_MainMenu : MonoBehaviour
 
     void OnLukButtonClicked()
     {
-        // Lukker spillet. Ikke så brugbart til Web-Build tho 
+        // Lukker spillet. Ikke super brugbart til Web-Build tho 
         Application.Quit();
     }
 }

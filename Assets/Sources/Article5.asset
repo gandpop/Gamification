@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 51fede4e601e3bf42aa308e934212dfe, type: 3}
-  m_Name: Article_5
+  m_Name: Article5
   m_EditorClassIdentifier: Assembly-CSharp::ArticleData
-  ArticleTexture: {fileID: -3475539889118530890, guid: 5f2df99881111354393e44187fd43628, type: 3}
+  ArticleTexture: {fileID: 21300000, guid: 2de5814e48e649a40ad613e6c5af0a51, type: 3}
   ArticleID: 5
-  Afsender: 1
-  Aegthed: 1
+  Afsender: 0
+  Aegthed: 0
   Tendens: 1
   Tid: 0
   Afhaengighed: 1
