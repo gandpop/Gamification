@@ -42,7 +42,7 @@ public class SourceManager : MonoBehaviour
     {
         UIManager.Instance.ClearAnswers();
         activeArticle = listOfPickedArticles[0];
-        GameObject articleObj = GameObject.FindWithTag("Article");
+        GameObject articleObj = GameObject.FindWithTag("Source");
         articleObj.GetComponent<SpriteRenderer>().sprite = activeArticle.ArticleTexture;
         listOfPickedArticles.RemoveAt(0);
     }

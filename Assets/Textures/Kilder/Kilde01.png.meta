@@ -1,0 +1,8112 @@
+fileFormatVersion: 2
+guid: a1adf8b6f2b921c4aaf47447d3ae660c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3860321246879973098
+    second: Kilde01_0
+  - first:
+      213: 6407365254547449642
+    second: Kilde01_1
+  - first:
+      213: 603985598714308534
+    second: Kilde01_2
+  - first:
+      213: -7892083910710196725
+    second: Kilde01_3
+  - first:
+      213: 6851052817778351374
+    second: Kilde01_4
+  - first:
+      213: 3053214188459264798
+    second: Kilde01_5
+  - first:
+      213: 1238815210260072733
+    second: Kilde01_6
+  - first:
+      213: 309563028632837600
+    second: Kilde01_7
+  - first:
+      213: 2702514376980117471
+    second: Kilde01_8
+  - first:
+      213: 8002144945824299399
+    second: Kilde01_9
+  - first:
+      213: -2862309276097775767
+    second: Kilde01_10
+  - first:
+      213: -1167127359733793579
+    second: Kilde01_11
+  - first:
+      213: -3772316380077241189
+    second: Kilde01_12
+  - first:
+      213: -8146197588922230783
+    second: Kilde01_13
+  - first:
+      213: 2528449451011347702
+    second: Kilde01_14
+  - first:
+      213: 700665544675295948
+    second: Kilde01_15
+  - first:
+      213: -6126498287780584027
+    second: Kilde01_16
+  - first:
+      213: 2328290263282795240
+    second: Kilde01_17
+  - first:
+      213: -2700227012237305367
+    second: Kilde01_18
+  - first:
+      213: -5596404865114332781
+    second: Kilde01_19
+  - first:
+      213: 9139794723611554566
+    second: Kilde01_20
+  - first:
+      213: -7240370924216452693
+    second: Kilde01_21
+  - first:
+      213: 2743754048427686146
+    second: Kilde01_22
+  - first:
+      213: 143754345874483239
+    second: Kilde01_23
+  - first:
+      213: 7485676487642566491
+    second: Kilde01_24
+  - first:
+      213: -6684049537846677955
+    second: Kilde01_25
+  - first:
+      213: 4064467392494525307
+    second: Kilde01_26
+  - first:
+      213: 1331795553224739187
+    second: Kilde01_27
+  - first:
+      213: 3764846641231608389
+    second: Kilde01_28
+  - first:
+      213: 3463730357418757959
+    second: Kilde01_29
+  - first:
+      213: -2229429448321554580
+    second: Kilde01_30
+  - first:
+      213: -1005289824232099805
+    second: Kilde01_31
+  - first:
+      213: -6789957030616946727
+    second: Kilde01_32
+  - first:
+      213: -551910583150319920
+    second: Kilde01_33
+  - first:
+      213: -6502416792605757521
+    second: Kilde01_34
+  - first:
+      213: -5349569580718109444
+    second: Kilde01_35
+  - first:
+      213: -5517330322472153665
+    second: Kilde01_36
+  - first:
+      213: 3253423154821047650
+    second: Kilde01_37
+  - first:
+      213: 4791865368389953449
+    second: Kilde01_38
+  - first:
+      213: -3236008175356597424
+    second: Kilde01_39
+  - first:
+      213: -6581141629526794503
+    second: Kilde01_40
+  - first:
+      213: -3341622699278428714
+    second: Kilde01_41
+  - first:
+      213: 389643655587229240
+    second: Kilde01_42
+  - first:
+      213: 5949847801192337177
+    second: Kilde01_43
+  - first:
+      213: 6153773113443617185
+    second: Kilde01_44
+  - first:
+      213: -8672984119041619493
+    second: Kilde01_45
+  - first:
+      213: -2778733311126420432
+    second: Kilde01_46
+  - first:
+      213: -7376626840243989658
+    second: Kilde01_47
+  - first:
+      213: -6320503765798894576
+    second: Kilde01_48
+  - first:
+      213: 8404670247630888949
+    second: Kilde01_49
+  - first:
+      213: 3853887098425203772
+    second: Kilde01_50
+  - first:
+      213: 5674307660721939087
+    second: Kilde01_51
+  - first:
+      213: -212715755448091464
+    second: Kilde01_52
+  - first:
+      213: 2062777576098095175
+    second: Kilde01_53
+  - first:
+      213: -3461819085432360191
+    second: Kilde01_54
+  - first:
+      213: -5287259864148362913
+    second: Kilde01_55
+  - first:
+      213: -4930856981055107666
+    second: Kilde01_56
+  - first:
+      213: -1422515314533125723
+    second: Kilde01_57
+  - first:
+      213: -2529296842576365039
+    second: Kilde01_58
+  - first:
+      213: -8058165257786194999
+    second: Kilde01_59
+  - first:
+      213: 4679388769159040416
+    second: Kilde01_60
+  - first:
+      213: 1050802293293144414
+    second: Kilde01_61
+  - first:
+      213: 315485792740316815
+    second: Kilde01_62
+  - first:
+      213: 4025404712313210598
+    second: Kilde01_63
+  - first:
+      213: 8637077824790272870
+    second: Kilde01_64
+  - first:
+      213: -1610984190184621920
+    second: Kilde01_65
+  - first:
+      213: 8042413171002183309
+    second: Kilde01_66
+  - first:
+      213: 5359450733970741175
+    second: Kilde01_67
+  - first:
+      213: 8700477162368083177
+    second: Kilde01_68
+  - first:
+      213: -4515716781825835243
+    second: Kilde01_69
+  - first:
+      213: -7884081472121071000
+    second: Kilde01_70
+  - first:
+      213: -9013717239709789695
+    second: Kilde01_71
+  - first:
+      213: 8930871753645231004
+    second: Kilde01_72
+  - first:
+      213: 1676966385231689880
+    second: Kilde01_73
+  - first:
+      213: -6574589580800565603
+    second: Kilde01_74
+  - first:
+      213: -7937006050874320430
+    second: Kilde01_75
+  - first:
+      213: 607653324982529823
+    second: Kilde01_76
+  - first:
+      213: -7661853624620189677
+    second: Kilde01_77
+  - first:
+      213: -6245709245335096863
+    second: Kilde01_78
+  - first:
+      213: -2684256671244034451
+    second: Kilde01_79
+  - first:
+      213: 2906969920178603786
+    second: Kilde01_80
+  - first:
+      213: 2398406410927226200
+    second: Kilde01_81
+  - first:
+      213: -8982924502189523265
+    second: Kilde01_82
+  - first:
+      213: 4528650451564435940
+    second: Kilde01_83
+  - first:
+      213: -5473835635011045560
+    second: Kilde01_84
+  - first:
+      213: 6939288495367687163
+    second: Kilde01_85
+  - first:
+      213: -6933571536232958327
+    second: Kilde01_86
+  - first:
+      213: 3212785895437021121
+    second: Kilde01_87
+  - first:
+      213: 91971890308462572
+    second: Kilde01_88
+  - first:
+      213: 7314030407786851506
+    second: Kilde01_89
+  - first:
+      213: -918543871439203302
+    second: Kilde01_90
+  - first:
+      213: 8525289916443965201
+    second: Kilde01_91
+  - first:
+      213: 6529568571537602544
+    second: Kilde01_92
+  - first:
+      213: 4243484662013241818
+    second: Kilde01_93
+  - first:
+      213: -7725930451862788903
+    second: Kilde01_94
+  - first:
+      213: -7624503514979139034
+    second: Kilde01_95
+  - first:
+      213: 2514327330143835748
+    second: Kilde01_96
+  - first:
+      213: -1076251361670607353
+    second: Kilde01_97
+  - first:
+      213: -2436523567796282851
+    second: Kilde01_98
+  - first:
+      213: 4725627220166269372
+    second: Kilde01_99
+  - first:
+      213: 7394230791300169269
+    second: Kilde01_100
+  - first:
+      213: 8075816631354592909
+    second: Kilde01_101
+  - first:
+      213: 611978342136474348
+    second: Kilde01_102
+  - first:
+      213: -6911088787435622279
+    second: Kilde01_103
+  - first:
+      213: -5704378787786101477
+    second: Kilde01_104
+  - first:
+      213: -5800557390911085070
+    second: Kilde01_105
+  - first:
+      213: 469928592872909057
+    second: Kilde01_106
+  - first:
+      213: -7430907286572622370
+    second: Kilde01_107
+  - first:
+      213: 3360046259320329633
+    second: Kilde01_108
+  - first:
+      213: -6866262642714773205
+    second: Kilde01_109
+  - first:
+      213: 5799697084873315269
+    second: Kilde01_110
+  - first:
+      213: -3271443207361326385
+    second: Kilde01_111
+  - first:
+      213: 7251723535747764247
+    second: Kilde01_112
+  - first:
+      213: -6010215518531140095
+    second: Kilde01_113
+  - first:
+      213: -1866998034047765666
+    second: Kilde01_114
+  - first:
+      213: -8388016530632942996
+    second: Kilde01_115
+  - first:
+      213: -7139104559378536256
+    second: Kilde01_116
+  - first:
+      213: -4564253386143288221
+    second: Kilde01_117
+  - first:
+      213: 7616588770370636103
+    second: Kilde01_118
+  - first:
+      213: -7760402061506123820
+    second: Kilde01_119
+  - first:
+      213: 7846900979739687704
+    second: Kilde01_120
+  - first:
+      213: -3010322985543168023
+    second: Kilde01_121
+  - first:
+      213: 3627834760830206522
+    second: Kilde01_122
+  - first:
+      213: 8647493384884907093
+    second: Kilde01_123
+  - first:
+      213: 42355179176341126
+    second: Kilde01_124
+  - first:
+      213: 515452522370286736
+    second: Kilde01_125
+  - first:
+      213: -713793925982031805
+    second: Kilde01_126
+  - first:
+      213: 6455690349980275041
+    second: Kilde01_127
+  - first:
+      213: -359527360574289558
+    second: Kilde01_128
+  - first:
+      213: 8760967267275902775
+    second: Kilde01_129
+  - first:
+      213: -7296210283653372967
+    second: Kilde01_130
+  - first:
+      213: -158342020864562430
+    second: Kilde01_131
+  - first:
+      213: -4103919163735327186
+    second: Kilde01_132
+  - first:
+      213: -3567934138802602575
+    second: Kilde01_133
+  - first:
+      213: 2617178152333165212
+    second: Kilde01_134
+  - first:
+      213: 601285133011298657
+    second: Kilde01_135
+  - first:
+      213: -562766199143491342
+    second: Kilde01_136
+  - first:
+      213: 3762934346643973575
+    second: Kilde01_137
+  - first:
+      213: 1357472253140997241
+    second: Kilde01_138
+  - first:
+      213: 3183151061972426797
+    second: Kilde01_139
+  - first:
+      213: 948340862749965259
+    second: Kilde01_140
+  - first:
+      213: 3683631827981245113
+    second: Kilde01_141
+  - first:
+      213: -3050129374505121665
+    second: Kilde01_142
+  - first:
+      213: 4493507253588985367
+    second: Kilde01_143
+  - first:
+      213: -8377340454123827734
+    second: Kilde01_144
+  - first:
+      213: -3628095680947766341
+    second: Kilde01_145
+  - first:
+      213: 2528200208999512200
+    second: Kilde01_146
+  - first:
+      213: -3959998456063093586
+    second: Kilde01_147
+  - first:
+      213: -1845022543794144216
+    second: Kilde01_148
+  - first:
+      213: 2319763483797533678
+    second: Kilde01_149
+  - first:
+      213: -4239279780484385720
+    second: Kilde01_150
+  - first:
+      213: -1971959695950820248
+    second: Kilde01_151
+  - first:
+      213: 6072703984216721599
+    second: Kilde01_152
+  - first:
+      213: 6603895050344001923
+    second: Kilde01_153
+  - first:
+      213: 8559672255250671213
+    second: Kilde01_154
+  - first:
+      213: -1418853630761628990
+    second: Kilde01_155
+  - first:
+      213: 5225156522263664718
+    second: Kilde01_156
+  - first:
+      213: -2989867502451135943
+    second: Kilde01_157
+  - first:
+      213: 3333480860326916586
+    second: Kilde01_158
+  - first:
+      213: -2038491943257601714
+    second: Kilde01_159
+  - first:
+      213: 5050439291751161597
+    second: Kilde01_160
+  - first:
+      213: 6030332872493206185
+    second: Kilde01_161
+  - first:
+      213: 4881693332929839286
+    second: Kilde01_162
+  - first:
+      213: 3450196361094938242
+    second: Kilde01_163
+  - first:
+      213: -6123374008128331148
+    second: Kilde01_164
+  - first:
+      213: -3328731965061153315
+    second: Kilde01_165
+  - first:
+      213: -4328614913241737551
+    second: Kilde01_166
+  - first:
+      213: 923645602720189271
+    second: Kilde01_167
+  - first:
+      213: -3072290029567212085
+    second: Kilde01_168
+  - first:
+      213: 3531300565298971710
+    second: Kilde01_169
+  - first:
+      213: 7394980009755306556
+    second: Kilde01_170
+  - first:
+      213: -3860518020141754295
+    second: Kilde01_171
+  - first:
+      213: -5909798995676178189
+    second: Kilde01_172
+  - first:
+      213: 7006464123885295200
+    second: Kilde01_173
+  - first:
+      213: 3176554101236089769
+    second: Kilde01_174
+  - first:
+      213: 8554153447556557735
+    second: Kilde01_175
+  - first:
+      213: -8566415671824397389
+    second: Kilde01_176
+  - first:
+      213: -4685264773011908997
+    second: Kilde01_177
+  - first:
+      213: 624164991020994807
+    second: Kilde01_178
+  - first:
+      213: 1565395995990416742
+    second: Kilde01_179
+  - first:
+      213: -562817240126287049
+    second: Kilde01_180
+  - first:
+      213: 6279571677879015630
+    second: Kilde01_181
+  - first:
+      213: -9013796275928132355
+    second: Kilde01_182
+  - first:
+      213: 1292623914506125654
+    second: Kilde01_183
+  - first:
+      213: 6470254204491259357
+    second: Kilde01_184
+  - first:
+      213: -258177374115886736
+    second: Kilde01_185
+  - first:
+      213: -2206465585010945614
+    second: Kilde01_186
+  - first:
+      213: -2329596102403964612
+    second: Kilde01_187
+  - first:
+      213: 6051624764027520908
+    second: Kilde01_188
+  - first:
+      213: 3122421523212508127
+    second: Kilde01_189
+  - first:
+      213: 6189684472264063688
+    second: Kilde01_190
+  - first:
+      213: -2966957677272597180
+    second: Kilde01_191
+  - first:
+      213: 4049830495247622940
+    second: Kilde01_192
+  - first:
+      213: 4831978909200891788
+    second: Kilde01_193
+  - first:
+      213: 2650481036344124503
+    second: Kilde01_194
+  - first:
+      213: 2271223714825940908
+    second: Kilde01_195
+  - first:
+      213: 9164183499081240582
+    second: Kilde01_196
+  - first:
+      213: -3941241080503691670
+    second: Kilde01_197
+  - first:
+      213: -413729622522725255
+    second: Kilde01_198
+  - first:
+      213: 632256310174656975
+    second: Kilde01_199
+  - first:
+      213: 5367467584578824996
+    second: Kilde01_200
+  - first:
+      213: -3181684604457931414
+    second: Kilde01_201
+  - first:
+      213: 2488186083467572616
+    second: Kilde01_202
+  - first:
+      213: -3670561428993746718
+    second: Kilde01_203
+  - first:
+      213: -6688325368934812979
+    second: Kilde01_204
+  - first:
+      213: 5593672812490211163
+    second: Kilde01_205
+  - first:
+      213: -5295757759773432531
+    second: Kilde01_206
+  - first:
+      213: -6346271389665984979
+    second: Kilde01_207
+  - first:
+      213: -4595473805109581647
+    second: Kilde01_208
+  - first:
+      213: -2600943309956140870
+    second: Kilde01_209
+  - first:
+      213: 5714413161047210651
+    second: Kilde01_210
+  - first:
+      213: 8770674276944907527
+    second: Kilde01_211
+  - first:
+      213: 7130357804846925466
+    second: Kilde01_212
+  - first:
+      213: 6461514222628222739
+    second: Kilde01_213
+  - first:
+      213: 4639032242052944752
+    second: Kilde01_214
+  - first:
+      213: 4253247392555727044
+    second: Kilde01_215
+  - first:
+      213: -126016496006831710
+    second: Kilde01_216
+  - first:
+      213: 6967591412163204842
+    second: Kilde01_217
+  - first:
+      213: 7741593531052928607
+    second: Kilde01_218
+  - first:
+      213: -3555583352429048850
+    second: Kilde01_219
+  - first:
+      213: -6625414660116001967
+    second: Kilde01_220
+  - first:
+      213: 1850227671759743593
+    second: Kilde01_221
+  - first:
+      213: 327083633345892565
+    second: Kilde01_222
+  - first:
+      213: -897122709238514197
+    second: Kilde01_223
+  - first:
+      213: 6549229896679150337
+    second: Kilde01_224
+  - first:
+      213: 6701914767746125564
+    second: Kilde01_225
+  - first:
+      213: -6758284429953307222
+    second: Kilde01_226
+  - first:
+      213: 7254686059931882943
+    second: Kilde01_227
+  - first:
+      213: -6203485594651717227
+    second: Kilde01_228
+  - first:
+      213: 101188692927085340
+    second: Kilde01_229
+  - first:
+      213: 8931739497958796541
+    second: Kilde01_230
+  - first:
+      213: 2136886019465693085
+    second: Kilde01_231
+  - first:
+      213: -8836666639691365904
+    second: Kilde01_232
+  - first:
+      213: 3612391920763235559
+    second: Kilde01_233
+  - first:
+      213: -7529866158380224681
+    second: Kilde01_234
+  - first:
+      213: -3872447202868254009
+    second: Kilde01_235
+  - first:
+      213: -1336743157755673694
+    second: Kilde01_236
+  - first:
+      213: -4444351206104719488
+    second: Kilde01_237
+  - first:
+      213: 7911405831710013294
+    second: Kilde01_238
+  - first:
+      213: -7416851237552044738
+    second: Kilde01_239
+  - first:
+      213: -8704111967968270801
+    second: Kilde01_240
+  - first:
+      213: -841103080461615202
+    second: Kilde01_241
+  - first:
+      213: -738013786592830357
+    second: Kilde01_242
+  - first:
+      213: -5353167883087354257
+    second: Kilde01_243
+  - first:
+      213: 6841730008113543186
+    second: Kilde01_244
+  - first:
+      213: -4101996193362695916
+    second: Kilde01_245
+  - first:
+      213: -2938254857090097998
+    second: Kilde01_246
+  - first:
+      213: -5210528307239499580
+    second: Kilde01_247
+  - first:
+      213: -477992981203888268
+    second: Kilde01_248
+  - first:
+      213: 118581035868390746
+    second: Kilde01_249
+  - first:
+      213: 6557689137658168815
+    second: Kilde01_250
+  - first:
+      213: 3131434679377223539
+    second: Kilde01_251
+  - first:
+      213: 4121080086692248784
+    second: Kilde01_252
+  - first:
+      213: 4410688752089369960
+    second: Kilde01_253
+  - first:
+      213: 5093070615083199836
+    second: Kilde01_254
+  - first:
+      213: 7598148617975818787
+    second: Kilde01_255
+  - first:
+      213: 9150047421667754583
+    second: Kilde01_256
+  - first:
+      213: 2793230166202079031
+    second: Kilde01_257
+  - first:
+      213: 6392890486998064309
+    second: Kilde01_258
+  - first:
+      213: -5589661528951475366
+    second: Kilde01_259
+  - first:
+      213: -2786690576729654392
+    second: Kilde01_260
+  - first:
+      213: 9179809662966425109
+    second: Kilde01_261
+  - first:
+      213: -1070217735537618293
+    second: Kilde01_262
+  - first:
+      213: 4052745747031079696
+    second: Kilde01_263
+  - first:
+      213: 5512840969805705826
+    second: Kilde01_264
+  - first:
+      213: -7452482823310299649
+    second: Kilde01_265
+  - first:
+      213: -6721705437717955440
+    second: Kilde01_266
+  - first:
+      213: 1124673497095405559
+    second: Kilde01_267
+  - first:
+      213: 1418156222554693703
+    second: Kilde01_268
+  - first:
+      213: -5105583814410586070
+    second: Kilde01_269
+  - first:
+      213: -2357852032187172237
+    second: Kilde01_270
+  - first:
+      213: 1774335841557617888
+    second: Kilde01_271
+  - first:
+      213: 1163521637860113520
+    second: Kilde01_272
+  - first:
+      213: -5844228690813393338
+    second: Kilde01_273
+  - first:
+      213: -1714090330812190748
+    second: Kilde01_274
+  - first:
+      213: 7244225442403668817
+    second: Kilde01_275
+  - first:
+      213: -5668521531371969887
+    second: Kilde01_276
+  - first:
+      213: -4750248385358404194
+    second: Kilde01_277
+  - first:
+      213: 2499353980387075766
+    second: Kilde01_278
+  - first:
+      213: 2720796331611378502
+    second: Kilde01_279
+  - first:
+      213: 3261875364115625969
+    second: Kilde01_280
+  - first:
+      213: 9176822401071237758
+    second: Kilde01_281
+  - first:
+      213: -4772525445362006873
+    second: Kilde01_282
+  - first:
+      213: 4707025242816379167
+    second: Kilde01_283
+  - first:
+      213: -2080388774687324964
+    second: Kilde01_284
+  - first:
+      213: -2538320787653937768
+    second: Kilde01_285
+  - first:
+      213: 8090485809170210465
+    second: Kilde01_286
+  - first:
+      213: 3154402414535996640
+    second: Kilde01_287
+  - first:
+      213: 6848433991335963305
+    second: Kilde01_288
+  - first:
+      213: -3123783420588077859
+    second: Kilde01_289
+  - first:
+      213: -1488677642885197664
+    second: Kilde01_290
+  - first:
+      213: 5957401556912746089
+    second: Kilde01_291
+  - first:
+      213: -473161882130548318
+    second: Kilde01_292
+  - first:
+      213: 5573701159920454887
+    second: Kilde01_293
+  - first:
+      213: 8064692115148048554
+    second: Kilde01_294
+  - first:
+      213: -6586742099789542191
+    second: Kilde01_295
+  - first:
+      213: -7192999773282650158
+    second: Kilde01_296
+  - first:
+      213: 2011099344849505889
+    second: Kilde01_297
+  - first:
+      213: -1823758569574677845
+    second: Kilde01_298
+  - first:
+      213: 6763127486093186590
+    second: Kilde01_299
+  - first:
+      213: -3953171419368619867
+    second: Kilde01_300
+  - first:
+      213: 5252020709242819309
+    second: Kilde01_301
+  - first:
+      213: -3934625121837325406
+    second: Kilde01_302
+  - first:
+      213: -5655965178051970913
+    second: Kilde01_303
+  - first:
+      213: 1883166073073641992
+    second: Kilde01_304
+  - first:
+      213: 7059074586526276639
+    second: Kilde01_305
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kilde01_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 815
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee7c2f98bd929530800000000000000
+      internalID: 3860321246879973098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 815
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a272b7750c88be850800000000000000
+      internalID: 6407365254547449642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 815
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b761d4b3b9c16800800000000000000
+      internalID: 603985598714308534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 815
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b060b8c4f7fa97290800000000000000
+      internalID: -7892083910710196725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 815
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d1e154d34d31f50800000000000000
+      internalID: 6851052817778351374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 815
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b0c46b0223f5a20800000000000000
+      internalID: 3053214188459264798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 815
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1907e5ced7213110800000000000000
+      internalID: 1238815210260072733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 815
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed11453fe9cb4400800000000000000
+      internalID: 309563028632837600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 815
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd73940e182418520800000000000000
+      internalID: 2702514376980117471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 815
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7897b095e645d0f60800000000000000
+      internalID: 8002144945824299399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 815
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967f2e8e0e80748d0800000000000000
+      internalID: -2862309276097775767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 815
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc7d6b99d78dcfe0800000000000000
+      internalID: -1167127359733793579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 815
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ccb192d3a06abc0800000000000000
+      internalID: -3772316380077241189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 815
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108952a0474e2fe80800000000000000
+      internalID: -8146197588922230783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 815
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f41010216bd61320800000000000000
+      internalID: 2528449451011347702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 815
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc20ab0c99349b900800000000000000
+      internalID: 700665544675295948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 815
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5accf444e4afaa0800000000000000
+      internalID: -6126498287780584027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 815
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2c8fc98afbf4020800000000000000
+      internalID: 2328290263282795240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_18
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 815
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e95eaab6ddd68ad0800000000000000
+      internalID: -2700227012237305367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_19
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 823
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391a79b1d639552b0800000000000000
+      internalID: -5596404865114332781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 807
+        width: 566
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6033bdc50e217de70800000000000000
+      internalID: 9139794723611554566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 777
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9f20c6109058b90800000000000000
+      internalID: -7240370924216452693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 777
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209729f15c5c31620800000000000000
+      internalID: 2743754048427686146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 777
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72864c0e0d7bef100800000000000000
+      internalID: 143754345874483239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 777
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fcd6dca1772e760800000000000000
+      internalID: 7485676487642566491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 777
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ee883eb5c7d33a0800000000000000
+      internalID: -6684049537846677955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_26
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 777
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b5bca1f83e76830800000000000000
+      internalID: 4064467392494525307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 777
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379c76fdffc7b7210800000000000000
+      internalID: 1331795553224739187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 773
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54abe6cb21c6f3430800000000000000
+      internalID: 3764846641231608389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 777
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f8eaf8864a11030800000000000000
+      internalID: 3463730357418757959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_30
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 777
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67aff09ab97f01e0800000000000000
+      internalID: -2229429448321554580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 777
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320b45a2b3e7c02f0800000000000000
+      internalID: -1005289824232099805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 777
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d729ed2e0a35c1a0800000000000000
+      internalID: -6789957030616946727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_33
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 777
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6eb8faf383758f0800000000000000
+      internalID: -551910583150319920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 777
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafe23fd066c2c5a0800000000000000
+      internalID: -6502416792605757521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 777
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfccf004fc282c5b0800000000000000
+      internalID: -5349569580718109444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 777
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd4e84cd418e63b0800000000000000
+      internalID: -5517330322472153665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_37
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 777
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265a3273f1b762d20800000000000000
+      internalID: 3253423154821047650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 777
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a721660a20208240800000000000000
+      internalID: 4791865368389953449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 777
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b2c99a5b36713d0800000000000000
+      internalID: -3236008175356597424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_40
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 777
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe158b6e861ba4a0800000000000000
+      internalID: -6581141629526794503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 777
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d590241cdb20a1d0800000000000000
+      internalID: -3341622699278428714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_42
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 777
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ee24027da486500800000000000000
+      internalID: 389643655587229240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_43
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 777
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f45b13d0b129250800000000000000
+      internalID: 5949847801192337177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 777
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a90827ea08966550800000000000000
+      internalID: 6153773113443617185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_45
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 777
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd98be925ee53a780800000000000000
+      internalID: -8672984119041619493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_46
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 777
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034c3c0a6c4ff69d0800000000000000
+      internalID: -2778733311126420432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_47
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 777
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66315aac8f4f0a990800000000000000
+      internalID: -7376626840243989658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 773
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014c90eff4f0948a0800000000000000
+      internalID: -6320503765798894576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_49
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 777
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff55547f0363a470800000000000000
+      internalID: 8404670247630888949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_50
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 777
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c5812b5e1cb7530800000000000000
+      internalID: 3853887098425203772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_51
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 773
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82eb9fe0c03fbe40800000000000000
+      internalID: 5674307660721939087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_52
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 774
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc336eb5284c0df0800000000000000
+      internalID: -212715755448091464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_53
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 751
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740e7f1c64570ac10800000000000000
+      internalID: 2062777576098095175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_54
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 751
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103f22022e525ffc0800000000000000
+      internalID: -3461819085432360191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 751
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b14aaa21ef96b0800000000000000
+      internalID: -5287259864148362913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 751
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead84f553b3129bb0800000000000000
+      internalID: -4930856981055107666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_57
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 751
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a133b5bbd5324ce0800000000000000
+      internalID: -1422515314533125723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_58
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 751
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11af7b62ce126ecd0800000000000000
+      internalID: -2529296842576365039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_59
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 751
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3824c5465ab2090800000000000000
+      internalID: -8058165257786194999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_60
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 751
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad4da70b4780f040800000000000000
+      internalID: 4679388769159040416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_61
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 751
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5957ec4e13359e00800000000000000
+      internalID: 1050802293293144414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_62
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 751
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8618ff28a4d06400800000000000000
+      internalID: 315485792740316815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_63
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 751
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6cc92224c1dd730800000000000000
+      internalID: 4025404712313210598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 751
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b170c35801dd770800000000000000
+      internalID: 8637077824790272870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_65
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 751
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a876451a62a4a9e0800000000000000
+      internalID: -1610984190184621920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_66
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 751
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e02822b246c9f60800000000000000
+      internalID: 8042413171002183309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 751
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b758850c08906a40800000000000000
+      internalID: 5359450733970741175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_68
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 695
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4295fc1ed4eb870800000000000000
+      internalID: 8700477162368083177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 695
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f30012383f451c0800000000000000
+      internalID: -4515716781825835243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_70
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 695
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a1cf93cad169290800000000000000
+      internalID: -7884081472121071000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 695
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102984d5de7d8e280800000000000000
+      internalID: -9013717239709789695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 695
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b089aca84d0fb70800000000000000
+      internalID: 8930871753645231004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 695
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898710cda08c54710800000000000000
+      internalID: 1676966385231689880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_74
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 695
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ed5642c9d52c4a0800000000000000
+      internalID: -6574589580800565603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 695
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9928d7c071ad190800000000000000
+      internalID: -7937006050874320430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_76
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 695
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f2b26ca71de6800800000000000000
+      internalID: 607653324982529823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_77
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 695
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318797ff8b0aba590800000000000000
+      internalID: -7661853624620189677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_78
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 695
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1bd655888c259a0800000000000000
+      internalID: -6245709245335096863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_79
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 695
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ed68087ca9fbad0800000000000000
+      internalID: -2684256671244034451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_80
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 695
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07cdf89db1a75820800000000000000
+      internalID: 2906969920178603786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_81
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 695
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d36566ce9d84120800000000000000
+      internalID: 2398406410927226200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_82
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 695
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe37d242cd365380800000000000000
+      internalID: -8982924502189523265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_83
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 521
+        width: 310
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e91965879ff8de30800000000000000
+      internalID: 4528650451564435940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_84
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 632
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847ba48dd770904b0800000000000000
+      internalID: -5473835635011045560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_85
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 632
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb8850ee1e4d4060800000000000000
+      internalID: 6939288495367687163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_86
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 632
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98633166c6107cf90800000000000000
+      internalID: -6933571536232958327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_87
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 632
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfa8e4ffbb169c20800000000000000
+      internalID: 3212785895437021121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 632
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7382b62ffb64100800000000000000
+      internalID: 91971890308462572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_89
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 632
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc6a8c87e7a08560800000000000000
+      internalID: 7314030407786851506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_90
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 632
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a141140373da043f0800000000000000
+      internalID: -918543871439203302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_91
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 632
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117bcd4920aef4670800000000000000
+      internalID: 8525289916443965201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_92
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 632
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7bd0b4500bd9a50800000000000000
+      internalID: 6529568571537602544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_93
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 632
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad92e1131d2e3ea30800000000000000
+      internalID: 4243484662013241818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 632
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d46851103bf7c490800000000000000
+      internalID: -7725930451862788903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_95
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 632
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62283f01372503690800000000000000
+      internalID: -7624503514979139034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 632
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4669742a26fa4e220800000000000000
+      internalID: 2514327330143835748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_97
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 632
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ec79ab6136011f0800000000000000
+      internalID: -1076251361670607353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 632
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a92ae69babf2ed0800000000000000
+      internalID: -2436523567796282851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_99
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 632
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb95de65becc49140800000000000000
+      internalID: 4725627220166269372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_100
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 632
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eb3b67ab59d9660800000000000000
+      internalID: 7394230791300169269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_101
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 606
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e051f4070131070800000000000000
+      internalID: 8075816631354592909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_102
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 606
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceae64d4f0f2e7800800000000000000
+      internalID: 611978342136474348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_103
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 606
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970f6b54d51e610a0800000000000000
+      internalID: -6911088787435622279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_104
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 606
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d6cb137b9f5d0b0800000000000000
+      internalID: -5704378787786101477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_105
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 606
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f56a7f19c7408fa0800000000000000
+      internalID: -5800557390911085070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 606
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1092dffb095858600800000000000000
+      internalID: 469928592872909057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_107
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 606
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd1af8813d10e890800000000000000
+      internalID: -7430907286572622370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_108
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 606
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a51ba3454841ae20800000000000000
+      internalID: 3360046259320329633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_109
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 606
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b297376618226b0a0800000000000000
+      internalID: -6866262642714773205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 602
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c31eb445c9ac7050800000000000000
+      internalID: 5799697084873315269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_111
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 606
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc21d5a5cbf7992d0800000000000000
+      internalID: -3271443207361326385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_112
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 606
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710d59d622c43a460800000000000000
+      internalID: 7251723535747764247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_113
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 602
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106496254dc679ca0800000000000000
+      internalID: -6010215518531140095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_114
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 606
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53fa380e271716e0800000000000000
+      internalID: -1866998034047765666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_115
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 606
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ad4813867c79b80800000000000000
+      internalID: -8388016530632942996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_116
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 606
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8eed35a3eccec90800000000000000
+      internalID: -7139104559378536256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_117
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 606
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3643e0e4ab388a0c0800000000000000
+      internalID: -4564253386143288221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_118
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 579
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749cb2ad12f83b960800000000000000
+      internalID: 7616588770370636103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_119
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 579
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7e7b101738d4490800000000000000
+      internalID: -7760402061506123820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_120
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 579
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b7c0dcddac5ec60800000000000000
+      internalID: 7846900979739687704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_121
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 575
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef818ba13f2936d0800000000000000
+      internalID: -3010322985543168023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_122
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 579
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32491f6e78a85230800000000000000
+      internalID: 3627834760830206522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_123
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 579
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cea9bca61120870800000000000000
+      internalID: 8647493384884907093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_124
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 579
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e2431afc9769000800000000000000
+      internalID: 42355179176341126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_125
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 579
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094c57e8651472700800000000000000
+      internalID: 515452522370286736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_126
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 579
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3407207c4381816f0800000000000000
+      internalID: -713793925982031805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_127
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 579
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161dd7a6b28379950800000000000000
+      internalID: 6455690349980275041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_128
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 579
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a698fe935c3b20bf0800000000000000
+      internalID: -359527360574289558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_129
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 579
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f0ecedf45359970800000000000000
+      internalID: 8760967267275902775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_130
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 576
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3e94c6767aeba90800000000000000
+      internalID: -7296210283653372967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_131
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 579
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ba95d55c47dcdf0800000000000000
+      internalID: -158342020864562430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_132
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 579
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e33aa9343fb07c0800000000000000
+      internalID: -4103919163735327186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_133
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 552
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd7ea2fdc62c7ec0800000000000000
+      internalID: -3567934138802602575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_134
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 552
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c924bb3c9a5125420800000000000000
+      internalID: 2617178152333165212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_135
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 552
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169acd984a1385800800000000000000
+      internalID: 601285133011298657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_136
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 552
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f89470af17a038f0800000000000000
+      internalID: -562766199143491342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 552
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5a4d4f9d0a83430800000000000000
+      internalID: 3762934346643973575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_138
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 552
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9741be072d5b6d210800000000000000
+      internalID: 1357472253140997241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_139
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 552
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20264b9603dc2c20800000000000000
+      internalID: 3183151061972426797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_140
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 548
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbf23a7dfe292d00800000000000000
+      internalID: 948340862749965259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_141
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 552
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba152e71a3ee1330800000000000000
+      internalID: 3683631827981245113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_142
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 552
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7843a18e73cba5d0800000000000000
+      internalID: -3050129374505121665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_143
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 552
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71600dd1a052c5e30800000000000000
+      internalID: 4493507253588985367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_144
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 552
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed8075fd35bdbb80800000000000000
+      internalID: -8377340454123827734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_145
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 526
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbbafd533a66adc0800000000000000
+      internalID: -3628095680947766341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_146
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 526
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888fb72f1b8f51320800000000000000
+      internalID: 2528200208999512200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_147
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 522
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4934b92624b09c0800000000000000
+      internalID: -3959998456063093586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_148
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 526
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cff8295c92566e0800000000000000
+      internalID: -1845022543794144216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_149
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 526
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3bcae0994713020800000000000000
+      internalID: 2319763483797533678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_150
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 526
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8447bb4108d0b25c0800000000000000
+      internalID: -4239279780484385720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_151
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 526
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cc67bba1132a4e0800000000000000
+      internalID: -1971959695950820248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_152
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 526
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8465d5914964450800000000000000
+      internalID: 6072703984216721599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_153
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 526
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381f6b13f8fb5ab50800000000000000
+      internalID: 6603895050344001923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_154
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 526
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66abf7a0901ac670800000000000000
+      internalID: 8559672255250671213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_155
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 526
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca0e26e3283f4ce0800000000000000
+      internalID: -1418853630761628990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_156
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 526
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4857554c2c738840800000000000000
+      internalID: 5225156522263664718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_157
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 526
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a6ae6f85bd186d0800000000000000
+      internalID: -2989867502451135943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_158
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 522
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae179515e27e24e20800000000000000
+      internalID: 3333480860326916586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_159
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 526
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4982a4c062d5b3e0800000000000000
+      internalID: -2038491943257601714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_160
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 491
+        width: 310
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfed08807c3c61640800000000000000
+      internalID: 5050439291751161597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_161
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 479
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa81562ccb00b350800000000000000
+      internalID: 6030332872493206185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_162
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 465
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b00da3d8324fb340800000000000000
+      internalID: 4881693332929839286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 469
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eb86c7f4f81ef20800000000000000
+      internalID: 3450196361094938242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_164
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 465
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472a6aa58c7650ba0800000000000000
+      internalID: -6123374008128331148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_165
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 469
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddba060ae7fdc1d0800000000000000
+      internalID: -3328731965061153315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_166
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 469
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b694ce9babade3c0800000000000000
+      internalID: -4328614913241737551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_167
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 469
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b0d7038c271dc00800000000000000
+      internalID: 923645602720189271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_168
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 469
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc50cacee780d55d0800000000000000
+      internalID: -3072290029567212085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_169
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 469
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3408cd8723b10130800000000000000
+      internalID: 3531300565298971710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_170
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 469
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a649a732f30a660800000000000000
+      internalID: 7394980009755306556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_171
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 469
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948d478805fac6ac0800000000000000
+      internalID: -3860518020141754295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_172
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 469
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8d2c8ff1d2cfda0800000000000000
+      internalID: -5909798995676178189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_173
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 469
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06693b3bff5fb3160800000000000000
+      internalID: 7006464123885295200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_174
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 465
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3ccfdff13651c20800000000000000
+      internalID: 3176554101236089769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_175
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 466
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abaacb1d3576b670800000000000000
+      internalID: 8554153447556557735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_176
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 464
+        width: 284
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb4192555afd1980800000000000000
+      internalID: -8566415671824397389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_177
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 443
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7659f533889afeb0800000000000000
+      internalID: -4685264773011908997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 443
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f09a0b90ca79a800800000000000000
+      internalID: 624164991020994807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_179
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 443
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dd3d15d5769b510800000000000000
+      internalID: 1565395995990416742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_180
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 443
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7339ec8b3b87038f0800000000000000
+      internalID: -562817240126287049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_181
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 439
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec81591ab25852750800000000000000
+      internalID: 6279571677879015630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_182
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 443
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4909f4b0098e280800000000000000
+      internalID: -9013796275928132355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_183
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 443
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65100540a9250f110800000000000000
+      internalID: 1292623914506125654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_184
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 443
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddddd290be5fac950800000000000000
+      internalID: 6470254204491259357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_185
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 443
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07987cecb05ca6cf0800000000000000
+      internalID: -258177374115886736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_186
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 443
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b15c44ad3f0161e0800000000000000
+      internalID: -2206465585010945614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_187
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 439
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31c31600bc9bafd0800000000000000
+      internalID: -2329596102403964612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_188
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 443
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8741d5f8a0bbf350800000000000000
+      internalID: 6051624764027520908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_189
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 443
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb9d1205d1155b20800000000000000
+      internalID: 3122421523212508127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_190
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 443
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cafc01bb3d26e550800000000000000
+      internalID: 6189684472264063688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_191
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 443
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d7c8e46bf33d6d0800000000000000
+      internalID: -2966957677272597180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_192
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 437
+        width: 310
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1367c5e063e33830800000000000000
+      internalID: 4049830495247622940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_193
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 416
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f391d8733ae0340800000000000000
+      internalID: 4831978909200891788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_194
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 416
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754633fa57668c420800000000000000
+      internalID: 2650481036344124503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_195
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 412
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafa4a76fe1058f10800000000000000
+      internalID: 2271223714825940908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_196
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 416
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600db37a658bd2f70800000000000000
+      internalID: 9164183499081240582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_197
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 416
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66966e6e16ed49c0800000000000000
+      internalID: -3941241080503691670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf970b913224af0800000000000000
+      internalID: -413729622522725255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_199
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 416
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9a5f6a3c936c800800000000000000
+      internalID: 632256310174656975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_200
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 412
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bae3284531d7a40800000000000000
+      internalID: 5367467584578824996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_201
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 416
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6da4f3a5b268d3d0800000000000000
+      internalID: -3181684604457931414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_202
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 412
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885b7285f00d78220800000000000000
+      internalID: 2488186083467572616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_203
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 416
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8d39ae3db8f0dc0800000000000000
+      internalID: -3670561428993746718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_204
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 416
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc23862638b4e23a0800000000000000
+      internalID: -6688325368934812979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_205
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 416
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f3d3259c7b0ad40800000000000000
+      internalID: 5593672812490211163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_206
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 426
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25af282060b186b0800000000000000
+      internalID: -5295757759773432531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_207
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 389
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2efbba8bc38de7a0800000000000000
+      internalID: -6346271389665984979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_208
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 389
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8a4df0ce89930c0800000000000000
+      internalID: -4595473805109581647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_209
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 389
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0b22907d797ebd0800000000000000
+      internalID: -2600943309956140870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_210
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 389
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a39046e7cad4f40800000000000000
+      internalID: 5714413161047210651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_211
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 389
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d05fd29c1b7b970800000000000000
+      internalID: 8770674276944907527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_212
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 389
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96c55f25ae14f260800000000000000
+      internalID: 7130357804846925466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 389
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317b3ee63f8eba950800000000000000
+      internalID: 6461514222628222739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_214
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 378
+        width: 143
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0735629de37216040800000000000000
+      internalID: 4639032242052944752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_215
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 378
+        width: 143
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8f32708f1960b30800000000000000
+      internalID: 4253247392555727044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_216
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 352
+        width: 284
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a16caf1aac404ef0800000000000000
+      internalID: -126016496006831710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_217
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 330
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6dc06397bd1b060800000000000000
+      internalID: 6967591412163204842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_218
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 330
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e2fddbc4aaf6b60800000000000000
+      internalID: 7741593531052928607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_219
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 330
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb8c2d77c708aec0800000000000000
+      internalID: -3555583352429048850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_220
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 330
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bce16387ccd04a0800000000000000
+      internalID: -6625414660116001967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_221
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 326
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a66d8b3445da910800000000000000
+      internalID: 1850227671759743593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_222
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 330
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d01d61e4d80a8400800000000000000
+      internalID: 327083633345892565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_223
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 330
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedf6eb26a7cc83f0800000000000000
+      internalID: -897122709238514197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_224
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 330
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103dde744e983ea50800000000000000
+      internalID: 6549229896679150337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_225
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 330
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfec37619fbf10d50800000000000000
+      internalID: 6701914767746125564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_226
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 330
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad649d2e10c532a0800000000000000
+      internalID: -6758284429953307222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_227
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 330
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d737d882dda460800000000000000
+      internalID: 7254686059931882943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_228
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 330
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591188918bac8e9a0800000000000000
+      internalID: -6203485594651717227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_229
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 330
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b7431849e776100800000000000000
+      internalID: 101188692927085340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_230
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 330
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfce82240c9e3fb70800000000000000
+      internalID: 8931739497958796541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_231
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 330
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9740c3538eb7ad10800000000000000
+      internalID: 2136886019465693085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_232
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 330
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1c6a6828add5580800000000000000
+      internalID: -8836666639691365904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_233
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 327
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec659a005bc12230800000000000000
+      internalID: 3612391920763235559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_234
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 324
+        width: 193
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fe287bf9a808790800000000000000
+      internalID: -7529866158380224681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_235
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 304
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca259d39cd424ac0800000000000000
+      internalID: -3872447202868254009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_236
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 304
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a30a0e2e2fe27de0800000000000000
+      internalID: -1336743157755673694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_237
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f9c0f002e7252c0800000000000000
+      internalID: -4444351206104719488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_238
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 304
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67770100b5facd60800000000000000
+      internalID: 7911405831710013294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_239
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 304
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e354bc9781d021990800000000000000
+      internalID: -7416851237552044738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_240
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 304
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2666001848c43780800000000000000
+      internalID: -8704111967968270801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_241
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f3995643dc354f0800000000000000
+      internalID: -841103080461615202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_242
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 304
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c1bca0f5c02c5f0800000000000000
+      internalID: -738013786592830357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_243
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 304
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f666c813c2ab5b5b0800000000000000
+      internalID: -5353167883087354257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_244
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 304
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218fcbe7135b2fe50800000000000000
+      internalID: 6841730008113543186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_245
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 304
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419ac980238c217c0800000000000000
+      internalID: -4101996193362695916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_246
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 304
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc149766c83937d0800000000000000
+      internalID: -2938254857090097998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_247
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 300
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c84fd27c1c70b7b0800000000000000
+      internalID: -5210528307239499580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_248
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 310
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47756368ae3dd59f0800000000000000
+      internalID: -477992981203888268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_249
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 277
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a558808e2d845a100800000000000000
+      internalID: 118581035868390746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_250
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 277
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe58d8dc687910b50800000000000000
+      internalID: 6557689137658168815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_251
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 275
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f5e95ff37157b20800000000000000
+      internalID: 3131434679377223539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_252
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 273
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc3a322184013930800000000000000
+      internalID: 4121080086692248784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_253
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 277
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d091b1d0ae53d30800000000000000
+      internalID: 4410688752089369960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_254
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 277
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5da30c7db83ea640800000000000000
+      internalID: 5093070615083199836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_255
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 277
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ae21d49eb027960800000000000000
+      internalID: 7598148617975818787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_256
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 277
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7524c76a6af7bfe70800000000000000
+      internalID: 9150047421667754583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_257
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 275
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7375168790c83c620800000000000000
+      internalID: 2793230166202079031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_258
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 275
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc5e75e60c18b850800000000000000
+      internalID: 6392890486998064309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_259
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 274
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a533e2864788d62b0800000000000000
+      internalID: -5589661528951475366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_260
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 277
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bb91b5fafa359d0800000000000000
+      internalID: -2786690576729654392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_261
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 273
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516efc2704c356f70800000000000000
+      internalID: 9179809662966425109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_262
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 277
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8215f8c3a2d521f0800000000000000
+      internalID: -1070217735537618293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_263
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 277
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b33c8d8ce3e3830800000000000000
+      internalID: 4052745747031079696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_264
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 250
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2623d7c57ab818c40800000000000000
+      internalID: 5512840969805705826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_265
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 250
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffda3ed6b56739890800000000000000
+      internalID: -7452482823310299649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_266
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 250
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c720c7484b7b2a0800000000000000
+      internalID: -6721705437717955440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_267
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 250
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fffaaa3694ab9f00800000000000000
+      internalID: 1124673497095405559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_268
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 250
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740e169129d4ea310800000000000000
+      internalID: 1418156222554693703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_269
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 250
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28b21342925529b0800000000000000
+      internalID: -5105583814410586070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_270
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 250
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37afc84b11a374fd0800000000000000
+      internalID: -2357852032187172237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_271
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 250
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec194c0c05bf9810800000000000000
+      internalID: 1774335841557617888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_272
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 250
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cf129d3c8a52010800000000000000
+      internalID: 1163521637860113520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_273
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 250
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ebe148f025eea0800000000000000
+      internalID: -5844228690813393338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_274
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 250
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efe10ffce35638e0800000000000000
+      internalID: -1714090330812190748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_275
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 250
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153515788a8a88460800000000000000
+      internalID: 7244225442403668817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_276
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 250
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2abe843bd5551b0800000000000000
+      internalID: -5668521531371969887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_277
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 250
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95e6dbe24ab31eb0800000000000000
+      internalID: -4750248385358404194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_278
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 250
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b62ee8f33d7fa220800000000000000
+      internalID: 2499353980387075766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_279
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 250
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643d1e329d532c520800000000000000
+      internalID: 2720796331611378502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_280
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 250
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7b5bb8c52844d20800000000000000
+      internalID: 3261875364115625969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_281
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 250
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ac2b65a5f9a5f70800000000000000
+      internalID: 9176822401071237758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_282
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 244
+        width: 284
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a44fa3b46594cdb0800000000000000
+      internalID: -4772525445362006873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_283
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 224
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19fddaf486b25140800000000000000
+      internalID: 4707025242816379167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_284
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 224
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd44d0a8e69f023e0800000000000000
+      internalID: -2080388774687324964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_285
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 224
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895b5e531b216ccd0800000000000000
+      internalID: -2538320787653937768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_286
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 220
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeddeb6afd274070800000000000000
+      internalID: 8090485809170210465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_287
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e47d058840b6cb20800000000000000
+      internalID: 3154402414535996640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_288
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa6a493e668a0f50800000000000000
+      internalID: 6848433991335963305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_289
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcc79c878716a4d0800000000000000
+      internalID: -3123783420588077859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_290
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 224
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a013c63297275be0800000000000000
+      internalID: -1488677642885197664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_291
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 224
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ea4200721fca250800000000000000
+      internalID: 5957401556912746089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_292
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 224
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a97a5e66cdfe69f0800000000000000
+      internalID: -473161882130548318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_293
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 224
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eccd399ca3c95d40800000000000000
+      internalID: 5573701159920454887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_294
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa80b4a00ca8bef60800000000000000
+      internalID: 8064692115148048554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_295
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 224
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc0fe255f03794a0800000000000000
+      internalID: -6586742099789542191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_296
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 216
+        width: 310
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7b50cf0d45d2c90800000000000000
+      internalID: -7192999773282650158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_297
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 184
+        width: 310
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e86c9e23cd8eb10800000000000000
+      internalID: 2011099344849505889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_298
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 162
+        width: 258
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba24d606e35b0b6e0800000000000000
+      internalID: -1823758569574677845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_299
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 135
+        width: 254
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16d343bd947bdd50800000000000000
+      internalID: 6763127486093186590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_300
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 108
+        width: 226
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a08e44f9838329c0800000000000000
+      internalID: -3953171419368619867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_301
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 107
+        width: 143
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2d967320de2e840800000000000000
+      internalID: 5252020709242819309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_302
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 107
+        width: 143
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3ee885c476569c0800000000000000
+      internalID: -3934625121837325406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_303
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 75
+        width: 258
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98bb3c13a9f181b0800000000000000
+      internalID: -5655965178051970913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_304
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 81
+        width: 284
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a2f96e099522a10800000000000000
+      internalID: 1883166073073641992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kilde01_305
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 254
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cd2e49feed6f160800000000000000
+      internalID: 7059074586526276639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kilde01_0: 3860321246879973098
+      Kilde01_1: 6407365254547449642
+      Kilde01_10: -2862309276097775767
+      Kilde01_100: 7394230791300169269
+      Kilde01_101: 8075816631354592909
+      Kilde01_102: 611978342136474348
+      Kilde01_103: -6911088787435622279
+      Kilde01_104: -5704378787786101477
+      Kilde01_105: -5800557390911085070
+      Kilde01_106: 469928592872909057
+      Kilde01_107: -7430907286572622370
+      Kilde01_108: 3360046259320329633
+      Kilde01_109: -6866262642714773205
+      Kilde01_11: -1167127359733793579
+      Kilde01_110: 5799697084873315269
+      Kilde01_111: -3271443207361326385
+      Kilde01_112: 7251723535747764247
+      Kilde01_113: -6010215518531140095
+      Kilde01_114: -1866998034047765666
+      Kilde01_115: -8388016530632942996
+      Kilde01_116: -7139104559378536256
+      Kilde01_117: -4564253386143288221
+      Kilde01_118: 7616588770370636103
+      Kilde01_119: -7760402061506123820
+      Kilde01_12: -3772316380077241189
+      Kilde01_120: 7846900979739687704
+      Kilde01_121: -3010322985543168023
+      Kilde01_122: 3627834760830206522
+      Kilde01_123: 8647493384884907093
+      Kilde01_124: 42355179176341126
+      Kilde01_125: 515452522370286736
+      Kilde01_126: -713793925982031805
+      Kilde01_127: 6455690349980275041
+      Kilde01_128: -359527360574289558
+      Kilde01_129: 8760967267275902775
+      Kilde01_13: -8146197588922230783
+      Kilde01_130: -7296210283653372967
+      Kilde01_131: -158342020864562430
+      Kilde01_132: -4103919163735327186
+      Kilde01_133: -3567934138802602575
+      Kilde01_134: 2617178152333165212
+      Kilde01_135: 601285133011298657
+      Kilde01_136: -562766199143491342
+      Kilde01_137: 3762934346643973575
+      Kilde01_138: 1357472253140997241
+      Kilde01_139: 3183151061972426797
+      Kilde01_14: 2528449451011347702
+      Kilde01_140: 948340862749965259
+      Kilde01_141: 3683631827981245113
+      Kilde01_142: -3050129374505121665
+      Kilde01_143: 4493507253588985367
+      Kilde01_144: -8377340454123827734
+      Kilde01_145: -3628095680947766341
+      Kilde01_146: 2528200208999512200
+      Kilde01_147: -3959998456063093586
+      Kilde01_148: -1845022543794144216
+      Kilde01_149: 2319763483797533678
+      Kilde01_15: 700665544675295948
+      Kilde01_150: -4239279780484385720
+      Kilde01_151: -1971959695950820248
+      Kilde01_152: 6072703984216721599
+      Kilde01_153: 6603895050344001923
+      Kilde01_154: 8559672255250671213
+      Kilde01_155: -1418853630761628990
+      Kilde01_156: 5225156522263664718
+      Kilde01_157: -2989867502451135943
+      Kilde01_158: 3333480860326916586
+      Kilde01_159: -2038491943257601714
+      Kilde01_16: -6126498287780584027
+      Kilde01_160: 5050439291751161597
+      Kilde01_161: 6030332872493206185
+      Kilde01_162: 4881693332929839286
+      Kilde01_163: 3450196361094938242
+      Kilde01_164: -6123374008128331148
+      Kilde01_165: -3328731965061153315
+      Kilde01_166: -4328614913241737551
+      Kilde01_167: 923645602720189271
+      Kilde01_168: -3072290029567212085
+      Kilde01_169: 3531300565298971710
+      Kilde01_17: 2328290263282795240
+      Kilde01_170: 7394980009755306556
+      Kilde01_171: -3860518020141754295
+      Kilde01_172: -5909798995676178189
+      Kilde01_173: 7006464123885295200
+      Kilde01_174: 3176554101236089769
+      Kilde01_175: 8554153447556557735
+      Kilde01_176: -8566415671824397389
+      Kilde01_177: -4685264773011908997
+      Kilde01_178: 624164991020994807
+      Kilde01_179: 1565395995990416742
+      Kilde01_18: -2700227012237305367
+      Kilde01_180: -562817240126287049
+      Kilde01_181: 6279571677879015630
+      Kilde01_182: -9013796275928132355
+      Kilde01_183: 1292623914506125654
+      Kilde01_184: 6470254204491259357
+      Kilde01_185: -258177374115886736
+      Kilde01_186: -2206465585010945614
+      Kilde01_187: -2329596102403964612
+      Kilde01_188: 6051624764027520908
+      Kilde01_189: 3122421523212508127
+      Kilde01_19: -5596404865114332781
+      Kilde01_190: 6189684472264063688
+      Kilde01_191: -2966957677272597180
+      Kilde01_192: 4049830495247622940
+      Kilde01_193: 4831978909200891788
+      Kilde01_194: 2650481036344124503
+      Kilde01_195: 2271223714825940908
+      Kilde01_196: 9164183499081240582
+      Kilde01_197: -3941241080503691670
+      Kilde01_198: -413729622522725255
+      Kilde01_199: 632256310174656975
+      Kilde01_2: 603985598714308534
+      Kilde01_20: 9139794723611554566
+      Kilde01_200: 5367467584578824996
+      Kilde01_201: -3181684604457931414
+      Kilde01_202: 2488186083467572616
+      Kilde01_203: -3670561428993746718
+      Kilde01_204: -6688325368934812979
+      Kilde01_205: 5593672812490211163
+      Kilde01_206: -5295757759773432531
+      Kilde01_207: -6346271389665984979
+      Kilde01_208: -4595473805109581647
+      Kilde01_209: -2600943309956140870
+      Kilde01_21: -7240370924216452693
+      Kilde01_210: 5714413161047210651
+      Kilde01_211: 8770674276944907527
+      Kilde01_212: 7130357804846925466
+      Kilde01_213: 6461514222628222739
+      Kilde01_214: 4639032242052944752
+      Kilde01_215: 4253247392555727044
+      Kilde01_216: -126016496006831710
+      Kilde01_217: 6967591412163204842
+      Kilde01_218: 7741593531052928607
+      Kilde01_219: -3555583352429048850
+      Kilde01_22: 2743754048427686146
+      Kilde01_220: -6625414660116001967
+      Kilde01_221: 1850227671759743593
+      Kilde01_222: 327083633345892565
+      Kilde01_223: -897122709238514197
+      Kilde01_224: 6549229896679150337
+      Kilde01_225: 6701914767746125564
+      Kilde01_226: -6758284429953307222
+      Kilde01_227: 7254686059931882943
+      Kilde01_228: -6203485594651717227
+      Kilde01_229: 101188692927085340
+      Kilde01_23: 143754345874483239
+      Kilde01_230: 8931739497958796541
+      Kilde01_231: 2136886019465693085
+      Kilde01_232: -8836666639691365904
+      Kilde01_233: 3612391920763235559
+      Kilde01_234: -7529866158380224681
+      Kilde01_235: -3872447202868254009
+      Kilde01_236: -1336743157755673694
+      Kilde01_237: -4444351206104719488
+      Kilde01_238: 7911405831710013294
+      Kilde01_239: -7416851237552044738
+      Kilde01_24: 7485676487642566491
+      Kilde01_240: -8704111967968270801
+      Kilde01_241: -841103080461615202
+      Kilde01_242: -738013786592830357
+      Kilde01_243: -5353167883087354257
+      Kilde01_244: 6841730008113543186
+      Kilde01_245: -4101996193362695916
+      Kilde01_246: -2938254857090097998
+      Kilde01_247: -5210528307239499580
+      Kilde01_248: -477992981203888268
+      Kilde01_249: 118581035868390746
+      Kilde01_25: -6684049537846677955
+      Kilde01_250: 6557689137658168815
+      Kilde01_251: 3131434679377223539
+      Kilde01_252: 4121080086692248784
+      Kilde01_253: 4410688752089369960
+      Kilde01_254: 5093070615083199836
+      Kilde01_255: 7598148617975818787
+      Kilde01_256: 9150047421667754583
+      Kilde01_257: 2793230166202079031
+      Kilde01_258: 6392890486998064309
+      Kilde01_259: -5589661528951475366
+      Kilde01_26: 4064467392494525307
+      Kilde01_260: -2786690576729654392
+      Kilde01_261: 9179809662966425109
+      Kilde01_262: -1070217735537618293
+      Kilde01_263: 4052745747031079696
+      Kilde01_264: 5512840969805705826
+      Kilde01_265: -7452482823310299649
+      Kilde01_266: -6721705437717955440
+      Kilde01_267: 1124673497095405559
+      Kilde01_268: 1418156222554693703
+      Kilde01_269: -5105583814410586070
+      Kilde01_27: 1331795553224739187
+      Kilde01_270: -2357852032187172237
+      Kilde01_271: 1774335841557617888
+      Kilde01_272: 1163521637860113520
+      Kilde01_273: -5844228690813393338
+      Kilde01_274: -1714090330812190748
+      Kilde01_275: 7244225442403668817
+      Kilde01_276: -5668521531371969887
+      Kilde01_277: -4750248385358404194
+      Kilde01_278: 2499353980387075766
+      Kilde01_279: 2720796331611378502
+      Kilde01_28: 3764846641231608389
+      Kilde01_280: 3261875364115625969
+      Kilde01_281: 9176822401071237758
+      Kilde01_282: -4772525445362006873
+      Kilde01_283: 4707025242816379167
+      Kilde01_284: -2080388774687324964
+      Kilde01_285: -2538320787653937768
+      Kilde01_286: 8090485809170210465
+      Kilde01_287: 3154402414535996640
+      Kilde01_288: 6848433991335963305
+      Kilde01_289: -3123783420588077859
+      Kilde01_29: 3463730357418757959
+      Kilde01_290: -1488677642885197664
+      Kilde01_291: 5957401556912746089
+      Kilde01_292: -473161882130548318
+      Kilde01_293: 5573701159920454887
+      Kilde01_294: 8064692115148048554
+      Kilde01_295: -6586742099789542191
+      Kilde01_296: -7192999773282650158
+      Kilde01_297: 2011099344849505889
+      Kilde01_298: -1823758569574677845
+      Kilde01_299: 6763127486093186590
+      Kilde01_3: -7892083910710196725
+      Kilde01_30: -2229429448321554580
+      Kilde01_300: -3953171419368619867
+      Kilde01_301: 5252020709242819309
+      Kilde01_302: -3934625121837325406
+      Kilde01_303: -5655965178051970913
+      Kilde01_304: 1883166073073641992
+      Kilde01_305: 7059074586526276639
+      Kilde01_31: -1005289824232099805
+      Kilde01_32: -6789957030616946727
+      Kilde01_33: -551910583150319920
+      Kilde01_34: -6502416792605757521
+      Kilde01_35: -5349569580718109444
+      Kilde01_36: -5517330322472153665
+      Kilde01_37: 3253423154821047650
+      Kilde01_38: 4791865368389953449
+      Kilde01_39: -3236008175356597424
+      Kilde01_4: 6851052817778351374
+      Kilde01_40: -6581141629526794503
+      Kilde01_41: -3341622699278428714
+      Kilde01_42: 389643655587229240
+      Kilde01_43: 5949847801192337177
+      Kilde01_44: 6153773113443617185
+      Kilde01_45: -8672984119041619493
+      Kilde01_46: -2778733311126420432
+      Kilde01_47: -7376626840243989658
+      Kilde01_48: -6320503765798894576
+      Kilde01_49: 8404670247630888949
+      Kilde01_5: 3053214188459264798
+      Kilde01_50: 3853887098425203772
+      Kilde01_51: 5674307660721939087
+      Kilde01_52: -212715755448091464
+      Kilde01_53: 2062777576098095175
+      Kilde01_54: -3461819085432360191
+      Kilde01_55: -5287259864148362913
+      Kilde01_56: -4930856981055107666
+      Kilde01_57: -1422515314533125723
+      Kilde01_58: -2529296842576365039
+      Kilde01_59: -8058165257786194999
+      Kilde01_6: 1238815210260072733
+      Kilde01_60: 4679388769159040416
+      Kilde01_61: 1050802293293144414
+      Kilde01_62: 315485792740316815
+      Kilde01_63: 4025404712313210598
+      Kilde01_64: 8637077824790272870
+      Kilde01_65: -1610984190184621920
+      Kilde01_66: 8042413171002183309
+      Kilde01_67: 5359450733970741175
+      Kilde01_68: 8700477162368083177
+      Kilde01_69: -4515716781825835243
+      Kilde01_7: 309563028632837600
+      Kilde01_70: -7884081472121071000
+      Kilde01_71: -9013717239709789695
+      Kilde01_72: 8930871753645231004
+      Kilde01_73: 1676966385231689880
+      Kilde01_74: -6574589580800565603
+      Kilde01_75: -7937006050874320430
+      Kilde01_76: 607653324982529823
+      Kilde01_77: -7661853624620189677
+      Kilde01_78: -6245709245335096863
+      Kilde01_79: -2684256671244034451
+      Kilde01_8: 2702514376980117471
+      Kilde01_80: 2906969920178603786
+      Kilde01_81: 2398406410927226200
+      Kilde01_82: -8982924502189523265
+      Kilde01_83: 4528650451564435940
+      Kilde01_84: -5473835635011045560
+      Kilde01_85: 6939288495367687163
+      Kilde01_86: -6933571536232958327
+      Kilde01_87: 3212785895437021121
+      Kilde01_88: 91971890308462572
+      Kilde01_89: 7314030407786851506
+      Kilde01_9: 8002144945824299399
+      Kilde01_90: -918543871439203302
+      Kilde01_91: 8525289916443965201
+      Kilde01_92: 6529568571537602544
+      Kilde01_93: 4243484662013241818
+      Kilde01_94: -7725930451862788903
+      Kilde01_95: -7624503514979139034
+      Kilde01_96: 2514327330143835748
+      Kilde01_97: -1076251361670607353
+      Kilde01_98: -2436523567796282851
+      Kilde01_99: 4725627220166269372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
