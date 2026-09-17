@@ -6,9 +6,14 @@ public class UI_MainMenu : MonoBehaviour
     private UIDocument UIDocument;
 
     // UI elements
+    private Label titel;
     private Button startButton;
     private Button indstillingerButton;
     private Button lukButton;
+
+    [Header("Title Animation")]
+    [SerializeField] private float animDistance = 8f;
+    [SerializeField] private float animSpeed = 2.5f;
 
     void Awake()
     {
@@ -17,9 +22,21 @@ public class UI_MainMenu : MonoBehaviour
 
         // Reference all UI elements
         VisualElement root = UIDocument.rootVisualElement;
+        titel = root.Q<Label>("Titel");
         startButton = root.Q<Button>("StartButton");
         indstillingerButton = root.Q<Button>("IndstillingerButton");
         lukButton = root.Q<Button>("LukButton");
+    }
+
+    void Update()
+    {
+        // Title Animation
+
+        if (titel != null)
+        {
+            float yOffset = Mathf.Sin(Time.unscaledTime * animSpeed) * animDistance;
+            titel.style.translate = new StyleTranslate(new Translate(0, yOffset));
+        }
     }
 
     void OnEnable()
@@ -34,6 +51,11 @@ public class UI_MainMenu : MonoBehaviour
         startButton.clicked -= OnStartButtonClicked;
         indstillingerButton.clicked -= OnIndstillingerButtonClicked;
         lukButton.clicked -= OnLukButtonClicked;
+
+        if (titel != null)
+        {
+            titel.style.translate = StyleKeyword.Null;
+        }
     }
 
     void OnStartButtonClicked()

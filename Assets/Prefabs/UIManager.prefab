@@ -45,6 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f638a1d9797e15b408f60101888e3e50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UI_GameWon
+  slideDuration: 2
 --- !u!114 &1753990361232188094
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -113,6 +114,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1de7b979d232f634aa28050e45d2ce32, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UI_MainMenu
+  animDistance: 8
+  animSpeed: 2.5
 --- !u!114 &1798368705184482818
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -181,6 +184,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13157716cba9bde4b8cdd7762a2ebf8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UI_GameLost
+  slideDuration: 2
 --- !u!114 &4204671288820051037
 MonoBehaviour:
   m_ObjectHideFlags: 0
