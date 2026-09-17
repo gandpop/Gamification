@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/StyleSheet.uss?fileID=7433441132597879392&amp;guid=c09fef67372cb624c98330bfd1ad806b&amp;type=3#StyleSheet"/>
+    <ui:VisualElement name="ScoreParent" style="flex-grow: 1; justify-content: center; align-items: center; display: none; width: 100%; height: 100%;">
+        <ui:VisualElement name="Container" style="min-width: 450px; min-height: 320px; max-width: 550px; justify-content: center; align-items: center; padding: 20px;">
+            <ui:VisualElement name="LoadingIcon" style="width: 350px; height: 175px; align-self: center; -unity-background-scale-mode: scale-to-fit;"/>
+            <ui:VisualElement name="LockContainer" style="width: 350px; height: 260px; justify-content: center; align-items: center; display: none;">
+                <ui:VisualElement name="LockIcon" style="position: absolute; width: 100%; height: 100%; -unity-background-scale-mode: scale-to-fit;"/>
+                <ui:Label text="0 / 100" name="ScoreLabel" style="-unity-text-align: upper-center; font-size: 48px; -unity-font-style: bold; color: rgb(0, 0, 0);"/>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
+

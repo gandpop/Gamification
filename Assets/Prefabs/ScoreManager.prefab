@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4455662567432713164
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4989978533008863236}
+  - component: {fileID: 4080105305240288356}
+  m_Layer: 0
+  m_Name: ScoreManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4989978533008863236
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4455662567432713164}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.23573, y: -0.60876, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4080105305240288356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4455662567432713164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0494875c3ef173d4088b7aba55541365, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  afsenderJournalist: 90
+  afsenderEkspert: 100
+  afsenderAlmenPerson: 30
+  afsenderAI: 0
+  afsenderInfluencer: 20
+  aegthedAiBilledeTekst: 0
+  aegthedTidPasserIkke: 0
+  aegthedAegte: 100
+  tendensBias: 0
+  tendensObjektiv: 100
+  tendensSubjektiv: 6
+  tidSamtidskilde: 100
+  tidEfterhaandskilde: 80
+  afhaengighedFoerstehaandskilde: 100
+  afhaengighedAndenhaandskilde: 80
+  vidensniveauAkademisk: 100
+  vidensniveauFagligt: 90
+  vidensniveauFormidlende: 70

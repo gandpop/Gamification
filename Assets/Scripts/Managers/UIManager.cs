@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
@@ -13,6 +14,13 @@ public class UIManager : MonoBehaviour
     [SerializeField] UIDocument gameWonUI;
     [SerializeField] UIDocument achievementUI;
     [SerializeField] UIDocument cheatSheetUI;
+    [SerializeField] UIDocument scoreUI;
+
+    [Header("Loading animation (Pspritesheet frames, set manually)")]
+    [SerializeField] Sprite[] loadingFrames;
+    [SerializeField] float loadingFrameInterval = 0.05f;
+    [SerializeField] float loadingDuration = 1f;
+    [SerializeField] Sprite lockSprite;
 
     // Public properties so they can be referred to elsewhere
     // while still having the varialbe private AND visible in Inspector
@@ -22,6 +30,7 @@ public class UIManager : MonoBehaviour
     public UIDocument GameWonUI => gameWonUI;
     public UIDocument AchievementUI => achievementUI;
     public UIDocument CheatSheetUI => cheatSheetUI;
+    public UIDocument ScoreUI => scoreUI;
 
     [Header("UI Scripts (set automatically)")]
     [SerializeField] UI_InGame inGameUIScript;
@@ -90,5 +99,48 @@ public class UIManager : MonoBehaviour
         {
             field.index = -1;
         }
+    }
+
+    /// <summary>
+    /// Shows a brief "loading" beat, then reveals the trust rating, then invokes onComplete.
+    /// </summary>
+    public void ShowArticleScore(float trustRating, System.Action onComplete)
+    {
+        StartCoroutine(ScoreRevealRoutine(trustRating, onComplete));
+    }
+
+    IEnumerator ScoreRevealRoutine(float trustRating, System.Action onComplete)
+    {
+        VisualElement root = scoreUI.rootVisualElement;
+        VisualElement scoreParent = root.Q<VisualElement>("ScoreParent");
+        VisualElement loadingIcon = root.Q<VisualElement>("LoadingIcon");
+        VisualElement lockContainer = root.Q<VisualElement>("LockContainer");
+        VisualElement lockIcon = root.Q<VisualElement>("LockIcon");
+        Label scoreLabel = root.Q<Label>("ScoreLabel");
+
+        scoreParent.style.display = DisplayStyle.Flex;
+        loadingIcon.style.display = DisplayStyle.Flex;
+        lockContainer.style.display = DisplayStyle.None;
+
+        // Cycle through the pspritesheet frames for loadingDuration seconds
+        float elapsed = 0f;
+        int frameIndex = 0;
+        while (elapsed < loadingDuration)
+        {
+            loadingIcon.style.backgroundImage = new StyleBackground(loadingFrames[frameIndex % loadingFrames.Length]);
+            frameIndex++;
+            yield return new WaitForSeconds(loadingFrameInterval);
+            elapsed += loadingFrameInterval;
+        }
+
+        loadingIcon.style.display = DisplayStyle.None;
+        lockIcon.style.backgroundImage = new StyleBackground(lockSprite);
+        scoreLabel.text = $"{trustRating:F0} / 100";
+        lockContainer.style.display = DisplayStyle.Flex;
+
+        yield return new WaitForSeconds(2f);
+
+        scoreParent.style.display = DisplayStyle.None;
+        onComplete?.Invoke();
     }
 }

@@ -70,16 +70,22 @@ public class SourceManager : MonoBehaviour
         }
         else // If all answers are correct
         {
-            if (listOfPickedArticles.Count != 0) // If more sources are left
-            {
-                Debug.Log("Correct!");
-                //SourceCalculator.Instance.CalculateTrustRating();
-            }
-            else // If no more sources are left
-            {
-                //SourceCalculator.Instance.CalculateTrustRating();
-                GameManager.Instance.GameWon();
-            }
+            Debug.Log("Correct!");
+            float trustRating = SourceCalculator.Instance.CalculateTrustRating(activeArticle);
+            UIManager.Instance.ShowArticleScore(trustRating, OnScoreRevealFinished);
+        }
+    }
+
+    // Called once the score reveal animation has finished playing for the active article
+    void OnScoreRevealFinished()
+    {
+        if (listOfPickedArticles.Count != 0) // If more sources are left
+        {
+            ShowNextArticle();
+        }
+        else // If no more sources are left
+        {
+            GameManager.Instance.GameWon();
         }
     }
 }

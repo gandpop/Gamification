@@ -57,7 +57,7 @@ public class SourceCalculator : MonoBehaviour
     public float LastCalculatedTrustRating { get; private set; }
 
     // Event invoked when a rating is calculated, useful for UI displays or score meters
-    public event Action<float, KildeScript> OnTrustRatingCalculated;
+    public event Action<float, ArticleData> OnTrustRatingCalculated;
 
     private void Awake()
     {
@@ -122,21 +122,28 @@ public class SourceCalculator : MonoBehaviour
     #endregion
 
     /// <summary>
-    /// Calculates the average trustworthiness rating (0 to 100) for the given KildeScript.
+    /// Calculates the average trustworthiness rating (0 to 100) for the given ArticleData.
     /// If any category contains AI (Afsender.AI or Aegthed.AiBilledeTekst) or fake time (Aegthed.TidPasserIkke),
     /// the rating is immediately set to 0.0.
     /// </summary>
-    public float CalculateTrustRating(KildeScript kilde)
+    public float CalculateTrustRating(ArticleData article)
     {
-        if (kilde == null)
+        if (article == null)
         {
-            Debug.LogWarning("SourceCalculator: Kan ikke beregne troværdighed, da kilde er null.");
+            Debug.LogWarning("SourceCalculator: Kan ikke beregne troværdighed, da article er null.");
             return 0f;
         }
 
+        float rating = CalculateTrustRatingInternal(article.name, article.Afsender, article.Aegthed, article.Tendens, article.Tid, article.Afhaengighed, article.Vidensniveau);
+        OnTrustRatingCalculated?.Invoke(rating, article);
+        return rating;
+    }
+
+    private float CalculateTrustRatingInternal(string sourceName, Afsender afsender, Aegthed aegthed, Tendens tendens, Tid tid, Afhaengighed afhaengighed, Vidensniveau vidensniveau)
+    {
         // Check if any category disqualifies the source (AI or time mismatch)
-        bool isAIRelated = kilde.Afsender == Afsender.AI || kilde.Aegthed == Aegthed.AiBilledeTekst;
-        bool isTimeMismatch = kilde.Aegthed == Aegthed.TidPasserIkke;
+        bool isAIRelated = afsender == Afsender.AI || aegthed == Aegthed.AiBilledeTekst;
+        bool isTimeMismatch = aegthed == Aegthed.TidPasserIkke;
 
         if (isAIRelated || isTimeMismatch)
         {
@@ -146,36 +153,33 @@ public class SourceCalculator : MonoBehaviour
                 ? "AI opdaget og tid passer ikke (kilden er uægte)"
                 : (isAIRelated ? "AI opdaget (AI-kilder er ikke akademisk pålidelige)" : "Tid passer ikke (kilden er uægte)");
 
-            Debug.Log($"[Troværdighedsvurdering for: {kilde.gameObject.name}]\n" +
+            Debug.Log($"[Troværdighedsvurdering for: {sourceName}]\n" +
                       $"• Diskvalificeret: {reason}!\n" +
                       $"==> Troværdighed (Trust Rating): 0.0 / 100");
 
-            OnTrustRatingCalculated?.Invoke(0f, kilde);
             return 0f;
         }
 
-        float rAfsender = GetAfsenderRating(kilde.Afsender);
-        float rAegthed = GetAegthedRating(kilde.Aegthed);
-        float rTendens = GetTendensRating(kilde.Tendens);
-        float rTid = GetTidRating(kilde.Tid);
-        float rAfhaengighed = GetAfhaengighedRating(kilde.Afhaengighed);
-        float rVidensniveau = GetVidensniveauRating(kilde.Vidensniveau);
+        float rAfsender = GetAfsenderRating(afsender);
+        float rAegthed = GetAegthedRating(aegthed);
+        float rTendens = GetTendensRating(tendens);
+        float rTid = GetTidRating(tid);
+        float rAfhaengighed = GetAfhaengighedRating(afhaengighed);
+        float rVidensniveau = GetVidensniveauRating(vidensniveau);
 
         float total = rAfsender + rAegthed + rTendens + rTid + rAfhaengighed + rVidensniveau;
         float average = Mathf.Clamp(total / 6f, 0f, 100f);
 
         LastCalculatedTrustRating = average;
 
-        Debug.Log($"[Troværdighedsvurdering for: {kilde.gameObject.name}]\n" +
-                  $"• Afsender ({kilde.Afsender}): {rAfsender:F1}\n" +
-                  $"• Ægthed ({kilde.Aegthed}): {rAegthed:F1}\n" +
-                  $"• Tendens ({kilde.Tendens}): {rTendens:F1}\n" +
-                  $"• Tid ({kilde.Tid}): {rTid:F1}\n" +
-                  $"• Afhængighed ({kilde.Afhaengighed}): {rAfhaengighed:F1}\n" +
-                  $"• Vidensniveau ({kilde.Vidensniveau}): {rVidensniveau:F1}\n" +
+        Debug.Log($"[Troværdighedsvurdering for: {sourceName}]\n" +
+                  $"• Afsender ({afsender}): {rAfsender:F1}\n" +
+                  $"• Ægthed ({aegthed}): {rAegthed:F1}\n" +
+                  $"• Tendens ({tendens}): {rTendens:F1}\n" +
+                  $"• Tid ({tid}): {rTid:F1}\n" +
+                  $"• Afhængighed ({afhaengighed}): {rAfhaengighed:F1}\n" +
+                  $"• Vidensniveau ({vidensniveau}): {rVidensniveau:F1}\n" +
                   $"==> Gennemsnitlig troværdighed (Trust Rating): {average:F1} / 100");
-
-        OnTrustRatingCalculated?.Invoke(average, kilde);
 
         return average;
     }
