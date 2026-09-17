@@ -27,6 +27,10 @@ public class GameManager : MonoBehaviour
         else Destroy(gameObject);
 
         CurrentGameState = GameState.MainMenu;
+    }
+
+    void Start()
+    {
         UIManager.Instance.UpdateUI();
     }
 
@@ -47,6 +51,7 @@ public class GameManager : MonoBehaviour
 
     public void GameLost()
     {
+        AudioManager.Instance.PlaySFX(AudioManager.Instance.AudioData.GameOver, transform, 0.2f);
         CurrentGameState = GameState.GameOver;
         UIManager.Instance.UpdateUI();
         Debug.Log("You ded");
@@ -54,6 +59,7 @@ public class GameManager : MonoBehaviour
 
     public void GameWon()
     {
+        AudioManager.Instance.PlaySFX(AudioManager.Instance.AudioData.GameWon, transform, 1f);
         CurrentGameState = GameState.GameWon;
         UIManager.Instance.UpdateUI();
         Debug.Log("You win");

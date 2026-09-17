@@ -15,6 +15,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] UIDocument achievementUI;
     [SerializeField] UIDocument cheatSheetUI;
     [SerializeField] UIDocument scoreUI;
+    [SerializeField] UIDocument settingsUI;
 
     [Header("Loading animation (Pspritesheet frames, set manually)")]
     [SerializeField] Sprite[] loadingFrames;
@@ -31,9 +32,11 @@ public class UIManager : MonoBehaviour
     public UIDocument AchievementUI => achievementUI;
     public UIDocument CheatSheetUI => cheatSheetUI;
     public UIDocument ScoreUI => scoreUI;
+    public UIDocument SettingsUI => settingsUI;
 
     [Header("UI Scripts (set automatically)")]
     [SerializeField] UI_InGame inGameUIScript;
+    [SerializeField] UI_Settings settingsScript;
 
     void Awake()
     {
@@ -41,6 +44,7 @@ public class UIManager : MonoBehaviour
         else Destroy(gameObject);
 
         inGameUIScript = GetComponentInChildren<UI_InGame>();
+        settingsScript = GetComponentInChildren<UI_Settings>();
     }
 
     public void UpdateUI()
@@ -51,6 +55,8 @@ public class UIManager : MonoBehaviour
         var gameWonParent = gameWonUI.rootVisualElement.Q<VisualElement>("GameWonParent");
         var achievementParent = achievementUI.rootVisualElement.Q<VisualElement>("achievement-drawer");
         var cheatSheetParent = cheatSheetUI.rootVisualElement.Q<VisualElement>("CheatSheetParent");
+        var settingsParent = settingsUI.rootVisualElement.Q<VisualElement>("SettingsParent");
+
         switch (GameManager.Instance.CurrentGameState)
         {
             case GameState.MainMenu:
@@ -60,6 +66,7 @@ public class UIManager : MonoBehaviour
                 gameWonParent.style.display = DisplayStyle.None;
                 achievementParent.style.display = DisplayStyle.Flex;
                 cheatSheetParent.style.display = DisplayStyle.Flex;
+                settingsParent.style.display = DisplayStyle.None;
                 break;
 
             case GameState.InGame:
@@ -69,6 +76,7 @@ public class UIManager : MonoBehaviour
                 gameWonParent.style.display = DisplayStyle.None;
                 achievementParent.style.display = DisplayStyle.Flex;
                 cheatSheetParent.style.display = DisplayStyle.Flex;
+                settingsParent.style.display = DisplayStyle.None;
                 break;
 
             case GameState.GameOver:
@@ -78,6 +86,7 @@ public class UIManager : MonoBehaviour
                 gameWonParent.style.display = DisplayStyle.None;
                 achievementParent.style.display = DisplayStyle.Flex;
                 cheatSheetParent.style.display = DisplayStyle.Flex;
+                settingsParent.style.display = DisplayStyle.None;
                 break;
 
             case GameState.GameWon:
@@ -87,6 +96,7 @@ public class UIManager : MonoBehaviour
                 gameWonParent.style.display = DisplayStyle.Flex;
                 achievementParent.style.display = DisplayStyle.Flex;
                 cheatSheetParent.style.display = DisplayStyle.Flex;
+                settingsParent.style.display = DisplayStyle.None;
                 break;
         }
     }

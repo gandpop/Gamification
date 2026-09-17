@@ -1,0 +1,14 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/StyleSheet.uss?fileID=7433441132597879392&amp;guid=c09fef67372cb624c98330bfd1ad806b&amp;type=3#StyleSheet"/>
+    <ui:VisualElement name="SettingsParent" style="flex-grow: 1; align-content: auto; align-self: auto; justify-content: center; align-items: stretch; display: none; background-color: rgba(15, 14, 39, 0.784);">
+        <ui:VisualElement name="Container" style="flex-grow: 1; max-width: 399px; max-height: 557px; justify-content: flex-end; background-color: rgb(238, 198, 93); align-items: stretch; align-content: flex-start; align-self: center; width: 588px; border-top-width: 6px; border-right-width: 6px; border-bottom-width: 14px; border-left-width: 6px; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 32px; border-bottom-left-radius: 32px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); flex-direction: column-reverse;">
+            <ui:VisualElement style="flex-grow: 0.5; align-self: center; flex-shrink: 1; min-width: 374px; width: auto; align-content: flex-start; flex-basis: 0%; flex-direction: column; color: rgb(27, 27, 27); background-color: rgba(0, 0, 0, 0); align-items: stretch; justify-content: space-around; height: 478px; min-height: 536px;">
+                <ui:Label text="Settings" name="Titel" style="-unity-font-definition: url(&quot;project://database/Assets/UI/monof55.ttf?fileID=12800000&amp;guid=111af795b0311a1439560254510a5957&amp;type=3#monof55&quot;); -unity-font-style: bold; color: rgb(0, 0, 0); font-size: 50px; -unity-text-align: upper-center;"/>
+                <ui:Slider label="Master Volume" value="1" high-value="1" name="MasterSlider" low-value="0.0001" fill="true" style="-unity-font-style: bold;"/>
+                <ui:Slider label="Sound FX Volume" value="1" high-value="1" name="SoundFXSlider" low-value="0.0001" fill="true" style="-unity-font-style: bold;"/>
+                <ui:Slider label="Music Volume" value="0.0001" high-value="0" name="MusicSlider" low-value="1" fill="true" style="-unity-font-style: bold;"/>
+                <ui:Button text="Back" name="BackButton" style="background-color: rgb(131, 158, 240); margin-top: 10px; margin-bottom: 10px; min-width: auto; width: 123px; -unity-text-align: middle-center; white-space: nowrap; align-self: center;"/>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

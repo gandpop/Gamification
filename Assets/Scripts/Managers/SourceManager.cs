@@ -42,8 +42,7 @@ public class SourceManager : MonoBehaviour
     {
         UIManager.Instance.ClearAnswers();
         activeArticle = listOfPickedArticles[0];
-        GameObject articleObj = GameObject.FindWithTag("Source");
-        articleObj.GetComponent<SpriteRenderer>().sprite = activeArticle.ArticleTexture;
+        GetComponentInChildren<SpriteRenderer>().sprite = activeArticle.ArticleTexture;
         listOfPickedArticles.RemoveAt(0);
     }
 
@@ -61,6 +60,7 @@ public class SourceManager : MonoBehaviour
         if (wronganswers.Count != 0)
         {
             GameManager.Instance.RemoveHealthPoint(1);
+            AudioManager.Instance.PlaySFX(AudioManager.Instance.AudioData.ErrorSound, transform, 0.06f);
             if (GameManager.Instance.PlayerHealth == 0)
             {
                 GameManager.Instance.GameLost();
@@ -71,6 +71,7 @@ public class SourceManager : MonoBehaviour
         else // If all answers are correct
         {
             Debug.Log("Correct!");
+            AudioManager.Instance.PlaySFX(AudioManager.Instance.AudioData.Right, transform, 1f);
             float trustRating = SourceCalculator.Instance.CalculateTrustRating(activeArticle);
             UIManager.Instance.ShowArticleScore(trustRating, OnScoreRevealFinished);
         }
@@ -87,5 +88,12 @@ public class SourceManager : MonoBehaviour
         {
             GameManager.Instance.GameWon();
         }
+    }
+
+    public void ClearArticle()
+    {
+        GetComponentInChildren<SpriteRenderer>().sprite = null;
+        UIManager.Instance.ClearAnswers();
+        listOfPickedArticles.Clear();
     }
 }

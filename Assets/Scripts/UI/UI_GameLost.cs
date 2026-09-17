@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.UIElements;
+using System.Collections.Generic;
 
 public class UI_GameLost : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class UI_GameLost : MonoBehaviour
     private Label titel;
     private Button retry;
     private Button backToMain;
+    private List<Button> allButtons = new List<Button>();
 
     [SerializeField] private float slideDuration = 0.8f;
     private bool wasShown = false;
@@ -32,6 +34,8 @@ public class UI_GameLost : MonoBehaviour
 
         if (gameLostParent != null)
             gameLostParent.style.translate = new StyleTranslate(new Translate(0, -Screen.height));
+
+        allButtons = root.Query<Button>().ToList();
     }
 
     void Update()
@@ -91,12 +95,22 @@ public class UI_GameLost : MonoBehaviour
     {
         if (retry != null) retry.clicked += OnRetryClicked;
         if (backToMain != null) backToMain.clicked += OnBackToMainClicked;
+
+        foreach (Button buttons in allButtons)
+        {
+            buttons.RegisterCallback<MouseEnterEvent>(OnButtonHover);
+        }
     }
 
     void OnDisable()
     {
         if (retry != null) retry.clicked -= OnRetryClicked;
         if (backToMain != null) backToMain.clicked -= OnBackToMainClicked;
+
+        foreach (Button buttons in allButtons)
+        {
+            buttons.RegisterCallback<MouseEnterEvent>(OnButtonHover);
+        }
     }
 
     void OnRetryClicked()
@@ -113,7 +127,14 @@ public class UI_GameLost : MonoBehaviour
         Debug.Log("Går til menuen");
         if (GameManager.Instance != null)
         {
+            SourceManager.Instance.ClearArticle();
             GameManager.Instance.CurrentGameState = GameState.MainMenu;
+            UIManager.Instance.UpdateUI();
         }
+    }
+
+    void OnButtonHover(MouseEnterEvent evt)
+    {
+        AudioManager.Instance.PlaySFX(AudioManager.Instance.AudioData.ButtonHover, transform, 1f);
     }
 }
